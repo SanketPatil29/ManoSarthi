@@ -1,13 +1,6 @@
 # ManoSarthi
-Healthcare app
 
-current passwords
-admin-
-username=manasi
-password=123@
-user-
-username=pmanu
-password=123
-doctor-
-username=DOC1
-password=123
+
+
+
+![Image Alt](https://drive.google.com/file/d/1drv3O9N3p1RsjhJWgVS7dGxhzFUWkieq/view?usp=sharing)
