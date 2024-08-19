@@ -1,0 +1,866 @@
+﻿SubCategoryCode,CODE,SHORT DESCRIPTION (VALID ICD-10 FY2024),LONG DESCRIPTION (VALID ICD-10 FY2024)
+F01,F0150,"Vascular dementia, unsp severity, without beh/psych/mood/anx","Vascular dementia, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"
+F01,F0151,Vascular dementia with behavioral disturbance,Vascular dementia with behavioral disturbance
+F01,F01511,"Vascular dementia, unspecified severity, with agitation","Vascular dementia, unspecified severity, with agitation"
+F01,F01518,"Vascular dementia, unsp severity, with other beh disturb","Vascular dementia, unspecified severity, with other behavioral disturbance"
+F01,F0152,"Vascular dementia, unsp severity, with psychotic disturb","Vascular dementia, unspecified severity, with psychotic disturbance"
+F01,F0153,"Vascular dementia, unspecified severity, with mood disturb","Vascular dementia, unspecified severity, with mood disturbance"
+F01,F0154,"Vascular dementia, unspecified severity, with anxiety","Vascular dementia, unspecified severity, with anxiety"
+F01,F01A0,"Vascular dementia, mild, without beh/psych/mood/anx","Vascular dementia, mild, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"
+F01,F01A11,"Vascular dementia, mild, with agitation","Vascular dementia, mild, with agitation"
+F01,F01A18,"Vascular dementia, mild, with other behavioral disturbance","Vascular dementia, mild, with other behavioral disturbance"
+F01,F01A2,"Vascular dementia, mild, with psychotic disturbance","Vascular dementia, mild, with psychotic disturbance"
+F01,F01A3,"Vascular dementia, mild, with mood disturbance","Vascular dementia, mild, with mood disturbance"
+F01,F01A4,"Vascular dementia, mild, with anxiety","Vascular dementia, mild, with anxiety"
+F01,F01B0,"Vascular dementia, moderate, without beh/psych/mood/anx","Vascular dementia, moderate, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"
+F01,F01B11,"Vascular dementia, moderate, with agitation","Vascular dementia, moderate, with agitation"
+F01,F01B18,"Vascular dementia, moderate, with other behavioral disturb","Vascular dementia, moderate, with other behavioral disturbance"
+F01,F01B2,"Vascular dementia, moderate, with psychotic disturbance","Vascular dementia, moderate, with psychotic disturbance"
+F01,F01B3,"Vascular dementia, moderate, with mood disturbance","Vascular dementia, moderate, with mood disturbance"
+F01,F01B4,"Vascular dementia, moderate, with anxiety","Vascular dementia, moderate, with anxiety"
+F01,F01C0,"Vascular dementia, severe, without beh/psych/mood/anx","Vascular dementia, severe, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"
+F01,F01C11,"Vascular dementia, severe, with agitation","Vascular dementia, severe, with agitation"
+F01,F01C18,"Vascular dementia, severe, with other behavioral disturbance","Vascular dementia, severe, with other behavioral disturbance"
+F01,F01C2,"Vascular dementia, severe, with psychotic disturbance","Vascular dementia, severe, with psychotic disturbance"
+F01,F01C3,"Vascular dementia, severe, with mood disturbance","Vascular dementia, severe, with mood disturbance"
+F01,F01C4,"Vascular dementia, severe, with anxiety","Vascular dementia, severe, with anxiety"
+F02,F0280,"Dem in oth dis classd elswhr, unsp sev, w/o beh/psych/mood/anx","Dementia in other diseases classified elsewhere, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"
+F02,F0281,Dementia in oth diseases classd elswhr w behavioral disturb,Dementia in other diseases classified elsewhere with behavioral disturbance
+F02,F02811,"Dem in other dis classd elswhr, unsp severt, with agitation","Dementia in other diseases classified elsewhere, unspecified severity, with agitation"
+F02,F02818,"Dem in oth dis classd elswhr, unsp sev, with oth beh distrb","Dementia in other diseases classified elsewhere, unspecified severity, with other behavioral disturbance"
+F02,F0282,"Dem in other dis classd elswhr, unsp sev, with psych distrb","Dementia in other diseases classified elsewhere, unspecified severity, with psychotic disturbance"
+F02,F0283,"Dem in other dis classd elswhr, unsp sev, with mood distrb","Dementia in other diseases classified elsewhere, unspecified severity, with mood disturbance"
+F02,F0284,"Dem in other dis classd elswhr, unsp severity, with anxiety","Dementia in other diseases classified elsewhere, unspecified severity, with anxiety"
+F02,F02A0,"Dem in other dis classd elswhr, mild, w/o beh/psych/mood/anx","Dementia in other diseases classified elsewhere, mild, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"
+F02,F02A11,"Dem in other diseases classd elswhr, mild, with agitation","Dementia in other diseases classified elsewhere, mild, with agitation"
+F02,F02A18,"Dem in other dis classd elswhr, mild, with other beh distrb","Dementia in other diseases classified elsewhere, mild, with other behavioral disturbance"
+F02,F02A2,"Dem in other dis classd elswhr, mild, with psych disturb","Dementia in other diseases classified elsewhere, mild, with psychotic disturbance"
+F02,F02A3,"Dem in other diseases classd elswhr, mild, with mood disturb","Dementia in other diseases classified elsewhere, mild, with mood disturbance"
+F02,F02A4,"Dementia in other diseases classd elswhr, mild, with anxiety","Dementia in other diseases classified elsewhere, mild, with anxiety"
+F02,F02B0,"Dem in other dis classd elswhr, mod, w/o beh/psych/mood/anx","Dementia in other diseases classified elsewhere, moderate, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"
+F02,F02B11,"Dem in other dis classd elswhr, moderate, with agitation","Dementia in other diseases classified elsewhere, moderate, with agitation"
+F02,F02B18,"Dem in other dis classd elswhr, mod, with other beh disturb","Dementia in other diseases classified elsewhere, moderate, with other behavioral disturbance"
+F02,F02B2,"Dem in other dis classd elswhr, moderate, with psych disturb","Dementia in other diseases classified elsewhere, moderate, with psychotic disturbance"
+F02,F02B3,"Dem in other dis classd elswhr, moderate, with mood disturb","Dementia in other diseases classified elsewhere, moderate, with mood disturbance"
+F02,F02B4,"Dem in other diseases classd elswhr, moderate, with anxiety","Dementia in other diseases classified elsewhere, moderate, with anxiety"
+F02,F02C0,"Dem in other dis classd elswhr, sev, w/o beh/psych/mood/anx","Dementia in other diseases classified elsewhere, severe, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"
+F02,F02C11,"Dem in other diseases classd elswhr, severe, with agitation","Dementia in other diseases classified elsewhere, severe, with agitation"
+F02,F02C18,"Dem in other dis classd elswhr, sev, with other beh distrb","Dementia in other diseases classified elsewhere, severe, with other behavioral disturbance"
+F02,F02C2,"Dem in other dis classd elswhr, severe, with psych disturb","Dementia in other diseases classified elsewhere, severe, with psychotic disturbance"
+F02,F02C3,"Dem in other dis classd elswhr, severe, with mood disturb","Dementia in other diseases classified elsewhere, severe, with mood disturbance"
+F02,F02C4,"Dem in other diseases classd elswhr, severe, with anxiety","Dementia in other diseases classified elsewhere, severe, with anxiety"
+F03,F0390,"Unsp dementia, unsp severity, without beh/psych/mood/anx","Unspecified dementia, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"
+F03,F0391,Unspecified dementia with behavioral disturbance,Unspecified dementia with behavioral disturbance
+F03,F03911,"Unspecified dementia, unspecified severity, with agitation","Unspecified dementia, unspecified severity, with agitation"
+F03,F03918,"Unsp dementia, unsp severity, with other behavioral disturb","Unspecified dementia, unspecified severity, with other behavioral disturbance"
+F03,F0392,"Unsp dementia, unspecified severity, with psychotic disturb","Unspecified dementia, unspecified severity, with psychotic disturbance"
+F03,F0393,"Unsp dementia, unspecified severity, with mood disturb","Unspecified dementia, unspecified severity, with mood disturbance"
+F03,F0394,"Unspecified dementia, unspecified severity, with anxiety","Unspecified dementia, unspecified severity, with anxiety"
+F03,F03A0,"Unspecified dementia, mild, without beh/psych/mood/anx","Unspecified dementia, mild, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"
+F03,F03A11,"Unspecified dementia, mild, with agitation","Unspecified dementia, mild, with agitation"
+F03,F03A18,"Unspecified dementia, mild, with other behavioral disturb","Unspecified dementia, mild, with other behavioral disturbance"
+F03,F03A2,"Unspecified dementia, mild, with psychotic disturbance","Unspecified dementia, mild, with psychotic disturbance"
+F03,F03A3,"Unspecified dementia, mild, with mood disturbance","Unspecified dementia, mild, with mood disturbance"
+F03,F03A4,"Unspecified dementia, mild, with anxiety","Unspecified dementia, mild, with anxiety"
+F03,F03B0,"Unspecified dementia, moderate, without beh/psych/mood/anx","Unspecified dementia, moderate, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"
+F03,F03B11,"Unspecified dementia, moderate, with agitation","Unspecified dementia, moderate, with agitation"
+F03,F03B18,"Unsp dementia, moderate, with other behavioral disturb","Unspecified dementia, moderate, with other behavioral disturbance"
+F03,F03B2,"Unspecified dementia, moderate, with psychotic disturbance","Unspecified dementia, moderate, with psychotic disturbance"
+F03,F03B3,"Unspecified dementia, moderate, with mood disturbance","Unspecified dementia, moderate, with mood disturbance"
+F03,F03B4,"Unspecified dementia, moderate, with anxiety","Unspecified dementia, moderate, with anxiety"
+F03,F03C0,"Unspecified dementia, severe, without beh/psych/mood/anx","Unspecified dementia, severe, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety"
+F03,F03C11,"Unspecified dementia, severe, with agitation","Unspecified dementia, severe, with agitation"
+F03,F03C18,"Unspecified dementia, severe, with other behavioral disturb","Unspecified dementia, severe, with other behavioral disturbance"
+F03,F03C2,"Unspecified dementia, severe, with psychotic disturbance","Unspecified dementia, severe, with psychotic disturbance"
+F03,F03C3,"Unspecified dementia, severe, with mood disturbance","Unspecified dementia, severe, with mood disturbance"
+F03,F03C4,"Unspecified dementia, severe, with anxiety","Unspecified dementia, severe, with anxiety"
+F04,F04,Amnestic disorder due to known physiological condition,Amnestic disorder due to known physiological condition
+F05,F05,Delirium due to known physiological condition,Delirium due to known physiological condition
+F06,F060,Psychotic disorder w hallucin due to known physiol condition,Psychotic disorder with hallucinations due to known physiological condition
+F06,F061,Catatonic disorder due to known physiological condition,Catatonic disorder due to known physiological condition
+F06,F062,Psychotic disorder w delusions due to known physiol cond,Psychotic disorder with delusions due to known physiological condition
+F06,F0630,"Mood disorder due to known physiological condition, unsp","Mood disorder due to known physiological condition, unspecified"
+F06,F0631,Mood disorder due to known physiol cond w depressv features,Mood disorder due to known physiological condition with depressive features
+F06,F0632,Mood disord d/t physiol cond w major depressive-like epsd,Mood disorder due to known physiological condition with major depressive-like episode
+F06,F0633,Mood disorder due to known physiol cond w manic features,Mood disorder due to known physiological condition with manic features
+F06,F0634,Mood disorder due to known physiol cond w mixed features,Mood disorder due to known physiological condition with mixed features
+F06,F064,Anxiety disorder due to known physiological condition,Anxiety disorder due to known physiological condition
+F06,F0670,Mild neurocog disord d/t known physiol cond w/o beh distrb,Mild neurocognitive disorder due to known physiological condition without behavioral disturbance
+F06,F0671,Mild neurocog disord d/t known physiol cond with beh distrb,Mild neurocognitive disorder due to known physiological condition with behavioral disturbance
+F06,F068,Oth mental disorders due to known physiological condition,Other specified mental disorders due to known physiological condition
+F07,F070,Personality change due to known physiological condition,Personality change due to known physiological condition
+F07,F0781,Postconcussional syndrome,Postconcussional syndrome
+F07,F0789,Oth personality & behavrl disord due to known physiol cond,Other personality and behavioral disorders due to known physiological condition
+F07,F079,Unsp personality & behavrl disord due to known physiol cond,Unspecified personality and behavioral disorder due to known physiological condition
+F09,F09,Unsp mental disorder due to known physiological condition,Unspecified mental disorder due to known physiological condition
+F10,F1010,"Alcohol abuse, uncomplicated","Alcohol abuse, uncomplicated"
+F10,F1011,"Alcohol abuse, in remission","Alcohol abuse, in remission"
+F10,F10120,"Alcohol abuse with intoxication, uncomplicated","Alcohol abuse with intoxication, uncomplicated"
+F10,F10121,Alcohol abuse with intoxication delirium,Alcohol abuse with intoxication delirium
+F10,F10129,"Alcohol abuse with intoxication, unspecified","Alcohol abuse with intoxication, unspecified"
+F10,F10130,"Alcohol abuse with withdrawal, uncomplicated","Alcohol abuse with withdrawal, uncomplicated"
+F10,F10131,Alcohol abuse with withdrawal delirium,Alcohol abuse with withdrawal delirium
+F10,F10132,Alcohol abuse with withdrawal with perceptual disturbance,Alcohol abuse with withdrawal with perceptual disturbance
+F10,F10139,"Alcohol abuse with withdrawal, unspecified","Alcohol abuse with withdrawal, unspecified"
+F10,F1014,Alcohol abuse with alcohol-induced mood disorder,Alcohol abuse with alcohol-induced mood disorder
+F10,F10150,Alcohol abuse w alcoh-induce psychotic disorder w delusions,Alcohol abuse with alcohol-induced psychotic disorder with delusions
+F10,F10151,Alcohol abuse w alcoh-induce psychotic disorder w hallucin,Alcohol abuse with alcohol-induced psychotic disorder with hallucinations
+F10,F10159,"Alcohol abuse with alcohol-induced psychotic disorder, unsp","Alcohol abuse with alcohol-induced psychotic disorder, unspecified"
+F10,F10180,Alcohol abuse with alcohol-induced anxiety disorder,Alcohol abuse with alcohol-induced anxiety disorder
+F10,F10181,Alcohol abuse with alcohol-induced sexual dysfunction,Alcohol abuse with alcohol-induced sexual dysfunction
+F10,F10182,Alcohol abuse with alcohol-induced sleep disorder,Alcohol abuse with alcohol-induced sleep disorder
+F10,F10188,Alcohol abuse with other alcohol-induced disorder,Alcohol abuse with other alcohol-induced disorder
+F10,F1019,Alcohol abuse with unspecified alcohol-induced disorder,Alcohol abuse with unspecified alcohol-induced disorder
+F10,F1020,"Alcohol dependence, uncomplicated","Alcohol dependence, uncomplicated"
+F10,F1021,"Alcohol dependence, in remission","Alcohol dependence, in remission"
+F10,F10220,"Alcohol dependence with intoxication, uncomplicated","Alcohol dependence with intoxication, uncomplicated"
+F10,F10221,Alcohol dependence with intoxication delirium,Alcohol dependence with intoxication delirium
+F10,F10229,"Alcohol dependence with intoxication, unspecified","Alcohol dependence with intoxication, unspecified"
+F10,F10230,"Alcohol dependence with withdrawal, uncomplicated","Alcohol dependence with withdrawal, uncomplicated"
+F10,F10231,Alcohol dependence with withdrawal delirium,Alcohol dependence with withdrawal delirium
+F10,F10232,Alcohol dependence w withdrawal with perceptual disturbance,Alcohol dependence with withdrawal with perceptual disturbance
+F10,F10239,"Alcohol dependence with withdrawal, unspecified","Alcohol dependence with withdrawal, unspecified"
+F10,F1024,Alcohol dependence with alcohol-induced mood disorder,Alcohol dependence with alcohol-induced mood disorder
+F10,F10250,Alcohol depend w alcoh-induce psychotic disorder w delusions,Alcohol dependence with alcohol-induced psychotic disorder with delusions
+F10,F10251,Alcohol depend w alcoh-induce psychotic disorder w hallucin,Alcohol dependence with alcohol-induced psychotic disorder with hallucinations
+F10,F10259,"Alcohol dependence w alcoh-induce psychotic disorder, unsp","Alcohol dependence with alcohol-induced psychotic disorder, unspecified"
+F10,F1026,Alcohol depend w alcoh-induce persisting amnestic disorder,Alcohol dependence with alcohol-induced persisting amnestic disorder
+F10,F1027,Alcohol dependence with alcohol-induced persisting dementia,Alcohol dependence with alcohol-induced persisting dementia
+F10,F10280,Alcohol dependence with alcohol-induced anxiety disorder,Alcohol dependence with alcohol-induced anxiety disorder
+F10,F10281,Alcohol dependence with alcohol-induced sexual dysfunction,Alcohol dependence with alcohol-induced sexual dysfunction
+F10,F10282,Alcohol dependence with alcohol-induced sleep disorder,Alcohol dependence with alcohol-induced sleep disorder
+F10,F10288,Alcohol dependence with other alcohol-induced disorder,Alcohol dependence with other alcohol-induced disorder
+F10,F1029,Alcohol dependence with unspecified alcohol-induced disorder,Alcohol dependence with unspecified alcohol-induced disorder
+F10,F1090,"Alcohol use, unspecified, uncomplicated","Alcohol use, unspecified, uncomplicated"
+F10,F1091,"Alcohol use, unspecified, in remission","Alcohol use, unspecified, in remission"
+F10,F10920,"Alcohol use, unspecified with intoxication, uncomplicated","Alcohol use, unspecified with intoxication, uncomplicated"
+F10,F10921,"Alcohol use, unspecified with intoxication delirium","Alcohol use, unspecified with intoxication delirium"
+F10,F10929,"Alcohol use, unspecified with intoxication, unspecified","Alcohol use, unspecified with intoxication, unspecified"
+F10,F10930,"Alcohol use, unspecified with withdrawal, uncomplicated","Alcohol use, unspecified with withdrawal, uncomplicated"
+F10,F10931,"Alcohol use, unspecified with withdrawal delirium","Alcohol use, unspecified with withdrawal delirium"
+F10,F10932,"Alcohol use, unspecified with w/drawal w perceptual disturb","Alcohol use, unspecified with withdrawal with perceptual disturbance"
+F10,F10939,"Alcohol use, unspecified with withdrawal, unspecified","Alcohol use, unspecified with withdrawal, unspecified"
+F10,F1094,"Alcohol use, unspecified with alcohol-induced mood disorder","Alcohol use, unspecified with alcohol-induced mood disorder"
+F10,F10950,"Alcohol use, unsp w alcoh-induce psych disorder w delusions","Alcohol use, unspecified with alcohol-induced psychotic disorder with delusions"
+F10,F10951,"Alcohol use, unsp w alcoh-induce psych disorder w hallucin","Alcohol use, unspecified with alcohol-induced psychotic disorder with hallucinations"
+F10,F10959,"Alcohol use, unsp w alcohol-induced psychotic disorder, unsp","Alcohol use, unspecified with alcohol-induced psychotic disorder, unspecified"
+F10,F1096,"Alcohol use, unsp w alcoh-induce persist amnestic disorder","Alcohol use, unspecified with alcohol-induced persisting amnestic disorder"
+F10,F1097,"Alcohol use, unsp with alcohol-induced persisting dementia","Alcohol use, unspecified with alcohol-induced persisting dementia"
+F10,F10980,"Alcohol use, unsp with alcohol-induced anxiety disorder","Alcohol use, unspecified with alcohol-induced anxiety disorder"
+F10,F10981,"Alcohol use, unsp with alcohol-induced sexual dysfunction","Alcohol use, unspecified with alcohol-induced sexual dysfunction"
+F10,F10982,"Alcohol use, unspecified with alcohol-induced sleep disorder","Alcohol use, unspecified with alcohol-induced sleep disorder"
+F10,F10988,"Alcohol use, unspecified with other alcohol-induced disorder","Alcohol use, unspecified with other alcohol-induced disorder"
+F10,F1099,"Alcohol use, unsp with unspecified alcohol-induced disorder","Alcohol use, unspecified with unspecified alcohol-induced disorder"
+F11,F1110,"Opioid abuse, uncomplicated","Opioid abuse, uncomplicated"
+F11,F1111,"Opioid abuse, in remission","Opioid abuse, in remission"
+F11,F11120,"Opioid abuse with intoxication, uncomplicated","Opioid abuse with intoxication, uncomplicated"
+F11,F11121,Opioid abuse with intoxication delirium,Opioid abuse with intoxication delirium
+F11,F11122,Opioid abuse with intoxication with perceptual disturbance,Opioid abuse with intoxication with perceptual disturbance
+F11,F11129,"Opioid abuse with intoxication, unspecified","Opioid abuse with intoxication, unspecified"
+F11,F1113,Opioid abuse with withdrawal,Opioid abuse with withdrawal
+F11,F1114,Opioid abuse with opioid-induced mood disorder,Opioid abuse with opioid-induced mood disorder
+F11,F11150,Opioid abuse w opioid-induced psychotic disorder w delusions,Opioid abuse with opioid-induced psychotic disorder with delusions
+F11,F11151,Opioid abuse w opioid-induced psychotic disorder w hallucin,Opioid abuse with opioid-induced psychotic disorder with hallucinations
+F11,F11159,"Opioid abuse with opioid-induced psychotic disorder, unsp","Opioid abuse with opioid-induced psychotic disorder, unspecified"
+F11,F11181,Opioid abuse with opioid-induced sexual dysfunction,Opioid abuse with opioid-induced sexual dysfunction
+F11,F11182,Opioid abuse with opioid-induced sleep disorder,Opioid abuse with opioid-induced sleep disorder
+F11,F11188,Opioid abuse with other opioid-induced disorder,Opioid abuse with other opioid-induced disorder
+F11,F1119,Opioid abuse with unspecified opioid-induced disorder,Opioid abuse with unspecified opioid-induced disorder
+F11,F1120,"Opioid dependence, uncomplicated","Opioid dependence, uncomplicated"
+F11,F1121,"Opioid dependence, in remission","Opioid dependence, in remission"
+F11,F11220,"Opioid dependence with intoxication, uncomplicated","Opioid dependence with intoxication, uncomplicated"
+F11,F11221,Opioid dependence with intoxication delirium,Opioid dependence with intoxication delirium
+F11,F11222,Opioid dependence w intoxication with perceptual disturbance,Opioid dependence with intoxication with perceptual disturbance
+F11,F11229,"Opioid dependence with intoxication, unspecified","Opioid dependence with intoxication, unspecified"
+F11,F1123,Opioid dependence with withdrawal,Opioid dependence with withdrawal
+F11,F1124,Opioid dependence with opioid-induced mood disorder,Opioid dependence with opioid-induced mood disorder
+F11,F11250,Opioid depend w opioid-induc psychotic disorder w delusions,Opioid dependence with opioid-induced psychotic disorder with delusions
+F11,F11251,Opioid depend w opioid-induc psychotic disorder w hallucin,Opioid dependence with opioid-induced psychotic disorder with hallucinations
+F11,F11259,"Opioid dependence w opioid-induced psychotic disorder, unsp","Opioid dependence with opioid-induced psychotic disorder, unspecified"
+F11,F11281,Opioid dependence with opioid-induced sexual dysfunction,Opioid dependence with opioid-induced sexual dysfunction
+F11,F11282,Opioid dependence with opioid-induced sleep disorder,Opioid dependence with opioid-induced sleep disorder
+F11,F11288,Opioid dependence with other opioid-induced disorder,Opioid dependence with other opioid-induced disorder
+F11,F1129,Opioid dependence with unspecified opioid-induced disorder,Opioid dependence with unspecified opioid-induced disorder
+F11,F1190,"Opioid use, unspecified, uncomplicated","Opioid use, unspecified, uncomplicated"
+F11,F1191,"Opioid use, unspecified, in remission","Opioid use, unspecified, in remission"
+F11,F11920,"Opioid use, unspecified with intoxication, uncomplicated","Opioid use, unspecified with intoxication, uncomplicated"
+F11,F11921,"Opioid use, unspecified with intoxication delirium","Opioid use, unspecified with intoxication delirium"
+F11,F11922,"Opioid use, unsp w intoxication with perceptual disturbance","Opioid use, unspecified with intoxication with perceptual disturbance"
+F11,F11929,"Opioid use, unspecified with intoxication, unspecified","Opioid use, unspecified with intoxication, unspecified"
+F11,F1193,"Opioid use, unspecified with withdrawal","Opioid use, unspecified with withdrawal"
+F11,F1194,"Opioid use, unspecified with opioid-induced mood disorder","Opioid use, unspecified with opioid-induced mood disorder"
+F11,F11950,"Opioid use, unsp w opioid-induc psych disorder w delusions","Opioid use, unspecified with opioid-induced psychotic disorder with delusions"
+F11,F11951,"Opioid use, unsp w opioid-induc psych disorder w hallucin","Opioid use, unspecified with opioid-induced psychotic disorder with hallucinations"
+F11,F11959,"Opioid use, unsp w opioid-induced psychotic disorder, unsp","Opioid use, unspecified with opioid-induced psychotic disorder, unspecified"
+F11,F11981,"Opioid use, unsp with opioid-induced sexual dysfunction","Opioid use, unspecified with opioid-induced sexual dysfunction"
+F11,F11982,"Opioid use, unspecified with opioid-induced sleep disorder","Opioid use, unspecified with opioid-induced sleep disorder"
+F11,F11988,"Opioid use, unspecified with other opioid-induced disorder","Opioid use, unspecified with other opioid-induced disorder"
+F11,F1199,"Opioid use, unsp with unspecified opioid-induced disorder","Opioid use, unspecified with unspecified opioid-induced disorder"
+F12,F1210,"Cannabis abuse, uncomplicated","Cannabis abuse, uncomplicated"
+F12,F1211,"Cannabis abuse, in remission","Cannabis abuse, in remission"
+F12,F12120,"Cannabis abuse with intoxication, uncomplicated","Cannabis abuse with intoxication, uncomplicated"
+F12,F12121,Cannabis abuse with intoxication delirium,Cannabis abuse with intoxication delirium
+F12,F12122,Cannabis abuse with intoxication with perceptual disturbance,Cannabis abuse with intoxication with perceptual disturbance
+F12,F12129,"Cannabis abuse with intoxication, unspecified","Cannabis abuse with intoxication, unspecified"
+F12,F1213,Cannabis abuse with withdrawal,Cannabis abuse with withdrawal
+F12,F12150,Cannabis abuse with psychotic disorder with delusions,Cannabis abuse with psychotic disorder with delusions
+F12,F12151,Cannabis abuse with psychotic disorder with hallucinations,Cannabis abuse with psychotic disorder with hallucinations
+F12,F12159,"Cannabis abuse with psychotic disorder, unspecified","Cannabis abuse with psychotic disorder, unspecified"
+F12,F12180,Cannabis abuse with cannabis-induced anxiety disorder,Cannabis abuse with cannabis-induced anxiety disorder
+F12,F12188,Cannabis abuse with other cannabis-induced disorder,Cannabis abuse with other cannabis-induced disorder
+F12,F1219,Cannabis abuse with unspecified cannabis-induced disorder,Cannabis abuse with unspecified cannabis-induced disorder
+F12,F1220,"Cannabis dependence, uncomplicated","Cannabis dependence, uncomplicated"
+F12,F1221,"Cannabis dependence, in remission","Cannabis dependence, in remission"
+F12,F12220,"Cannabis dependence with intoxication, uncomplicated","Cannabis dependence with intoxication, uncomplicated"
+F12,F12221,Cannabis dependence with intoxication delirium,Cannabis dependence with intoxication delirium
+F12,F12222,Cannabis dependence w intoxication w perceptual disturbance,Cannabis dependence with intoxication with perceptual disturbance
+F12,F12229,"Cannabis dependence with intoxication, unspecified","Cannabis dependence with intoxication, unspecified"
+F12,F1223,Cannabis dependence with withdrawal,Cannabis dependence with withdrawal
+F12,F12250,Cannabis dependence with psychotic disorder with delusions,Cannabis dependence with psychotic disorder with delusions
+F12,F12251,Cannabis dependence w psychotic disorder with hallucinations,Cannabis dependence with psychotic disorder with hallucinations
+F12,F12259,"Cannabis dependence with psychotic disorder, unspecified","Cannabis dependence with psychotic disorder, unspecified"
+F12,F12280,Cannabis dependence with cannabis-induced anxiety disorder,Cannabis dependence with cannabis-induced anxiety disorder
+F12,F12288,Cannabis dependence with other cannabis-induced disorder,Cannabis dependence with other cannabis-induced disorder
+F12,F1229,Cannabis dependence with unsp cannabis-induced disorder,Cannabis dependence with unspecified cannabis-induced disorder
+F12,F1290,"Cannabis use, unspecified, uncomplicated","Cannabis use, unspecified, uncomplicated"
+F12,F1291,"Cannabis use, unspecified, in remission","Cannabis use, unspecified, in remission"
+F12,F12920,"Cannabis use, unspecified with intoxication, uncomplicated","Cannabis use, unspecified with intoxication, uncomplicated"
+F12,F12921,"Cannabis use, unspecified with intoxication delirium","Cannabis use, unspecified with intoxication delirium"
+F12,F12922,"Cannabis use, unsp w intoxication w perceptual disturbance","Cannabis use, unspecified with intoxication with perceptual disturbance"
+F12,F12929,"Cannabis use, unspecified with intoxication, unspecified","Cannabis use, unspecified with intoxication, unspecified"
+F12,F1293,"Cannabis use, unspecified with withdrawal","Cannabis use, unspecified with withdrawal"
+F12,F12950,"Cannabis use, unsp with psychotic disorder with delusions","Cannabis use, unspecified with psychotic disorder with delusions"
+F12,F12951,"Cannabis use, unsp w psychotic disorder with hallucinations","Cannabis use, unspecified with psychotic disorder with hallucinations"
+F12,F12959,"Cannabis use, unsp with psychotic disorder, unspecified","Cannabis use, unspecified with psychotic disorder, unspecified"
+F12,F12980,"Cannabis use, unspecified with anxiety disorder","Cannabis use, unspecified with anxiety disorder"
+F12,F12988,"Cannabis use, unsp with other cannabis-induced disorder","Cannabis use, unspecified with other cannabis-induced disorder"
+F12,F1299,"Cannabis use, unsp with unsp cannabis-induced disorder","Cannabis use, unspecified with unspecified cannabis-induced disorder"
+F13,F1310,"Sedative, hypnotic or anxiolytic abuse, uncomplicated","Sedative, hypnotic or anxiolytic abuse, uncomplicated"
+F13,F1311,"Sedative, hypnotic or anxiolytic abuse, in remission","Sedative, hypnotic or anxiolytic abuse, in remission"
+F13,F13120,"Sedatv/hyp/anxiolytc abuse w intoxication, uncomplicated","Sedative, hypnotic or anxiolytic abuse with intoxication, uncomplicated"
+F13,F13121,Sedatv/hyp/anxiolytc abuse w intoxication delirium,"Sedative, hypnotic or anxiolytic abuse with intoxication delirium"
+F13,F13129,"Sedative, hypnotic or anxiolytic abuse w intoxication, unsp","Sedative, hypnotic or anxiolytic abuse with intoxication, unspecified"
+F13,F13130,"Sedatv/hyp/anxiolytc abuse with withdrawal, uncomplicated","Sedative, hypnotic or anxiolytic abuse with withdrawal, uncomplicated"
+F13,F13131,Sedatv/hyp/anxiolytc abuse with withdrawal delirium,"Sedative, hypnotic or anxiolytic abuse with withdrawal delirium"
+F13,F13132,Sedatv/hyp/anxiolytc abuse with w/drawal w perceptl disturb,"Sedative, hypnotic or anxiolytic abuse with withdrawal with perceptual disturbance"
+F13,F13139,"Sedatv/hyp/anxiolytc abuse with withdrawal, unspecified","Sedative, hypnotic or anxiolytic abuse with withdrawal, unspecified"
+F13,F1314,"Sedative, hypnotic or anxiolytic abuse w mood disorder","Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced mood disorder"
+F13,F13150,Sedatv/hyp/anxiolytc abuse w psychotic disorder w delusions,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions"
+F13,F13151,Sedatv/hyp/anxiolytc abuse w psychotic disorder w hallucin,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations"
+F13,F13159,"Sedatv/hyp/anxiolytc abuse w psychotic disorder, unsp","Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified"
+F13,F13180,"Sedative, hypnotic or anxiolytic abuse w anxiety disorder","Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced anxiety disorder"
+F13,F13181,"Sedative, hypnotic or anxiolytic abuse w sexual dysfunction","Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced sexual dysfunction"
+F13,F13182,"Sedative, hypnotic or anxiolytic abuse w sleep disorder","Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced sleep disorder"
+F13,F13188,"Sedative, hypnotic or anxiolytic abuse w oth disorder","Sedative, hypnotic or anxiolytic abuse with other sedative, hypnotic or anxiolytic-induced disorder"
+F13,F1319,"Sedative, hypnotic or anxiolytic abuse w unsp disorder","Sedative, hypnotic or anxiolytic abuse with unspecified sedative, hypnotic or anxiolytic-induced disorder"
+F13,F1320,"Sedative, hypnotic or anxiolytic dependence, uncomplicated","Sedative, hypnotic or anxiolytic dependence, uncomplicated"
+F13,F1321,"Sedative, hypnotic or anxiolytic dependence, in remission","Sedative, hypnotic or anxiolytic dependence, in remission"
+F13,F13220,"Sedatv/hyp/anxiolytc dependence w intoxication, uncomp","Sedative, hypnotic or anxiolytic dependence with intoxication, uncomplicated"
+F13,F13221,Sedatv/hyp/anxiolytc dependence w intoxication delirium,"Sedative, hypnotic or anxiolytic dependence with intoxication delirium"
+F13,F13229,"Sedatv/hyp/anxiolytc dependence w intoxication, unsp","Sedative, hypnotic or anxiolytic dependence with intoxication, unspecified"
+F13,F13230,"Sedatv/hyp/anxiolytc dependence w withdrawal, uncomplicated","Sedative, hypnotic or anxiolytic dependence with withdrawal, uncomplicated"
+F13,F13231,Sedatv/hyp/anxiolytc dependence w withdrawal delirium,"Sedative, hypnotic or anxiolytic dependence with withdrawal delirium"
+F13,F13232,Sedatv/hyp/anxiolytc depend w w/drawal w perceptual disturb,"Sedative, hypnotic or anxiolytic dependence with withdrawal with perceptual disturbance"
+F13,F13239,"Sedatv/hyp/anxiolytc dependence w withdrawal, unsp","Sedative, hypnotic or anxiolytic dependence with withdrawal, unspecified"
+F13,F1324,"Sedative, hypnotic or anxiolytic dependence w mood disorder","Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced mood disorder"
+F13,F13250,Sedatv/hyp/anxiolytc depend w psychotic disorder w delusions,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions"
+F13,F13251,Sedatv/hyp/anxiolytc depend w psychotic disorder w hallucin,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations"
+F13,F13259,"Sedatv/hyp/anxiolytc dependence w psychotic disorder, unsp","Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified"
+F13,F1326,Sedatv/hyp/anxiolytc depend w persisting amnestic disorder,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced persisting amnestic disorder"
+F13,F1327,Sedatv/hyp/anxiolytc dependence w persisting dementia,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced persisting dementia"
+F13,F13280,Sedatv/hyp/anxiolytc dependence w anxiety disorder,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced anxiety disorder"
+F13,F13281,Sedatv/hyp/anxiolytc dependence w sexual dysfunction,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced sexual dysfunction"
+F13,F13282,"Sedative, hypnotic or anxiolytic dependence w sleep disorder","Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced sleep disorder"
+F13,F13288,"Sedative, hypnotic or anxiolytic dependence w oth disorder","Sedative, hypnotic or anxiolytic dependence with other sedative, hypnotic or anxiolytic-induced disorder"
+F13,F1329,"Sedative, hypnotic or anxiolytic dependence w unsp disorder","Sedative, hypnotic or anxiolytic dependence with unspecified sedative, hypnotic or anxiolytic-induced disorder"
+F13,F1390,"Sedative, hypnotic, or anxiolytic use, unsp, uncomplicated","Sedative, hypnotic, or anxiolytic use, unspecified, uncomplicated"
+F13,F1391,"Sedatv/hyp/anxiolytc use, unspecified, in remission","Sedative, hypnotic or anxiolytic use, unspecified, in remission"
+F13,F13920,"Sedatv/hyp/anxiolytc use, unsp w intoxication, uncomplicated","Sedative, hypnotic or anxiolytic use, unspecified with intoxication, uncomplicated"
+F13,F13921,"Sedatv/hyp/anxiolytc use, unsp w intoxication delirium","Sedative, hypnotic or anxiolytic use, unspecified with intoxication delirium"
+F13,F13929,"Sedatv/hyp/anxiolytc use, unsp w intoxication, unsp","Sedative, hypnotic or anxiolytic use, unspecified with intoxication, unspecified"
+F13,F13930,"Sedatv/hyp/anxiolytc use, unsp w withdrawal, uncomplicated","Sedative, hypnotic or anxiolytic use, unspecified with withdrawal, uncomplicated"
+F13,F13931,"Sedatv/hyp/anxiolytc use, unsp w withdrawal delirium","Sedative, hypnotic or anxiolytic use, unspecified with withdrawal delirium"
+F13,F13932,"Sedatv/hyp/anxiolytc use, unsp w w/drawal w perceptl disturb","Sedative, hypnotic or anxiolytic use, unspecified with withdrawal with perceptual disturbances"
+F13,F13939,"Sedatv/hyp/anxiolytc use, unsp w withdrawal, unsp","Sedative, hypnotic or anxiolytic use, unspecified with withdrawal, unspecified"
+F13,F1394,"Sedative, hypnotic or anxiolytic use, unsp w mood disorder","Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced mood disorder"
+F13,F13950,"Sedatv/hyp/anxiolytc use, unsp w psych disorder w delusions","Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions"
+F13,F13951,"Sedatv/hyp/anxiolytc use, unsp w psych disorder w hallucin","Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations"
+F13,F13959,"Sedatv/hyp/anxiolytc use, unsp w psychotic disorder, unsp","Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified"
+F13,F1396,"Sedatv/hyp/anxiolytc use, unsp w persist amnestic disorder","Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced persisting amnestic disorder"
+F13,F1397,"Sedatv/hyp/anxiolytc use, unsp w persisting dementia","Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced persisting dementia"
+F13,F13980,"Sedatv/hyp/anxiolytc use, unsp w anxiety disorder","Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced anxiety disorder"
+F13,F13981,"Sedatv/hyp/anxiolytc use, unsp w sexual dysfunction","Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced sexual dysfunction"
+F13,F13982,"Sedative, hypnotic or anxiolytic use, unsp w sleep disorder","Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced sleep disorder"
+F13,F13988,"Sedative, hypnotic or anxiolytic use, unsp w oth disorder","Sedative, hypnotic or anxiolytic use, unspecified with other sedative, hypnotic or anxiolytic-induced disorder"
+F13,F1399,"Sedative, hypnotic or anxiolytic use, unsp w unsp disorder","Sedative, hypnotic or anxiolytic use, unspecified with unspecified sedative, hypnotic or anxiolytic-induced disorder"
+F14,F1410,"Cocaine abuse, uncomplicated","Cocaine abuse, uncomplicated"
+F14,F1411,"Cocaine abuse, in remission","Cocaine abuse, in remission"
+F14,F14120,"Cocaine abuse with intoxication, uncomplicated","Cocaine abuse with intoxication, uncomplicated"
+F14,F14121,Cocaine abuse with intoxication with delirium,Cocaine abuse with intoxication with delirium
+F14,F14122,Cocaine abuse with intoxication with perceptual disturbance,Cocaine abuse with intoxication with perceptual disturbance
+F14,F14129,"Cocaine abuse with intoxication, unspecified","Cocaine abuse with intoxication, unspecified"
+F14,F1413,"Cocaine abuse, unspecified with withdrawal","Cocaine abuse, unspecified with withdrawal"
+F14,F1414,Cocaine abuse with cocaine-induced mood disorder,Cocaine abuse with cocaine-induced mood disorder
+F14,F14150,Cocaine abuse w cocaine-induc psychotic disorder w delusions,Cocaine abuse with cocaine-induced psychotic disorder with delusions
+F14,F14151,Cocaine abuse w cocaine-induc psychotic disorder w hallucin,Cocaine abuse with cocaine-induced psychotic disorder with hallucinations
+F14,F14159,"Cocaine abuse with cocaine-induced psychotic disorder, unsp","Cocaine abuse with cocaine-induced psychotic disorder, unspecified"
+F14,F14180,Cocaine abuse with cocaine-induced anxiety disorder,Cocaine abuse with cocaine-induced anxiety disorder
+F14,F14181,Cocaine abuse with cocaine-induced sexual dysfunction,Cocaine abuse with cocaine-induced sexual dysfunction
+F14,F14182,Cocaine abuse with cocaine-induced sleep disorder,Cocaine abuse with cocaine-induced sleep disorder
+F14,F14188,Cocaine abuse with other cocaine-induced disorder,Cocaine abuse with other cocaine-induced disorder
+F14,F1419,Cocaine abuse with unspecified cocaine-induced disorder,Cocaine abuse with unspecified cocaine-induced disorder
+F14,F1420,"Cocaine dependence, uncomplicated","Cocaine dependence, uncomplicated"
+F14,F1421,"Cocaine dependence, in remission","Cocaine dependence, in remission"
+F14,F14220,"Cocaine dependence with intoxication, uncomplicated","Cocaine dependence with intoxication, uncomplicated"
+F14,F14221,Cocaine dependence with intoxication delirium,Cocaine dependence with intoxication delirium
+F14,F14222,Cocaine dependence w intoxication w perceptual disturbance,Cocaine dependence with intoxication with perceptual disturbance
+F14,F14229,"Cocaine dependence with intoxication, unspecified","Cocaine dependence with intoxication, unspecified"
+F14,F1423,Cocaine dependence with withdrawal,Cocaine dependence with withdrawal
+F14,F1424,Cocaine dependence with cocaine-induced mood disorder,Cocaine dependence with cocaine-induced mood disorder
+F14,F14250,Cocaine depend w cocaine-induc psych disorder w delusions,Cocaine dependence with cocaine-induced psychotic disorder with delusions
+F14,F14251,Cocaine depend w cocaine-induc psychotic disorder w hallucin,Cocaine dependence with cocaine-induced psychotic disorder with hallucinations
+F14,F14259,"Cocaine dependence w cocaine-induc psychotic disorder, unsp","Cocaine dependence with cocaine-induced psychotic disorder, unspecified"
+F14,F14280,Cocaine dependence with cocaine-induced anxiety disorder,Cocaine dependence with cocaine-induced anxiety disorder
+F14,F14281,Cocaine dependence with cocaine-induced sexual dysfunction,Cocaine dependence with cocaine-induced sexual dysfunction
+F14,F14282,Cocaine dependence with cocaine-induced sleep disorder,Cocaine dependence with cocaine-induced sleep disorder
+F14,F14288,Cocaine dependence with other cocaine-induced disorder,Cocaine dependence with other cocaine-induced disorder
+F14,F1429,Cocaine dependence with unspecified cocaine-induced disorder,Cocaine dependence with unspecified cocaine-induced disorder
+F14,F1490,"Cocaine use, unspecified, uncomplicated","Cocaine use, unspecified, uncomplicated"
+F14,F1491,"Cocaine use, unspecified, in remission","Cocaine use, unspecified, in remission"
+F14,F14920,"Cocaine use, unspecified with intoxication, uncomplicated","Cocaine use, unspecified with intoxication, uncomplicated"
+F14,F14921,"Cocaine use, unspecified with intoxication delirium","Cocaine use, unspecified with intoxication delirium"
+F14,F14922,"Cocaine use, unsp w intoxication with perceptual disturbance","Cocaine use, unspecified with intoxication with perceptual disturbance"
+F14,F14929,"Cocaine use, unspecified with intoxication, unspecified","Cocaine use, unspecified with intoxication, unspecified"
+F14,F1493,"Cocaine use, unspecified with withdrawal","Cocaine use, unspecified with withdrawal"
+F14,F1494,"Cocaine use, unspecified with cocaine-induced mood disorder","Cocaine use, unspecified with cocaine-induced mood disorder"
+F14,F14950,"Cocaine use, unsp w cocaine-induc psych disorder w delusions","Cocaine use, unspecified with cocaine-induced psychotic disorder with delusions"
+F14,F14951,"Cocaine use, unsp w cocaine-induc psych disorder w hallucin","Cocaine use, unspecified with cocaine-induced psychotic disorder with hallucinations"
+F14,F14959,"Cocaine use, unsp w cocaine-induced psychotic disorder, unsp","Cocaine use, unspecified with cocaine-induced psychotic disorder, unspecified"
+F14,F14980,"Cocaine use, unsp with cocaine-induced anxiety disorder","Cocaine use, unspecified with cocaine-induced anxiety disorder"
+F14,F14981,"Cocaine use, unsp with cocaine-induced sexual dysfunction","Cocaine use, unspecified with cocaine-induced sexual dysfunction"
+F14,F14982,"Cocaine use, unspecified with cocaine-induced sleep disorder","Cocaine use, unspecified with cocaine-induced sleep disorder"
+F14,F14988,"Cocaine use, unspecified with other cocaine-induced disorder","Cocaine use, unspecified with other cocaine-induced disorder"
+F14,F1499,"Cocaine use, unsp with unspecified cocaine-induced disorder","Cocaine use, unspecified with unspecified cocaine-induced disorder"
+F15,F1510,"Other stimulant abuse, uncomplicated","Other stimulant abuse, uncomplicated"
+F15,F1511,"Other stimulant abuse, in remission","Other stimulant abuse, in remission"
+F15,F15120,"Other stimulant abuse with intoxication, uncomplicated","Other stimulant abuse with intoxication, uncomplicated"
+F15,F15121,Other stimulant abuse with intoxication delirium,Other stimulant abuse with intoxication delirium
+F15,F15122,Oth stimulant abuse w intoxication w perceptual disturbance,Other stimulant abuse with intoxication with perceptual disturbance
+F15,F15129,"Other stimulant abuse with intoxication, unspecified","Other stimulant abuse with intoxication, unspecified"
+F15,F1513,Other stimulant abuse with withdrawal,Other stimulant abuse with withdrawal
+F15,F1514,Other stimulant abuse with stimulant-induced mood disorder,Other stimulant abuse with stimulant-induced mood disorder
+F15,F15150,Oth stimulant abuse w stim-induce psych disorder w delusions,Other stimulant abuse with stimulant-induced psychotic disorder with delusions
+F15,F15151,Oth stimulant abuse w stim-induce psych disorder w hallucin,Other stimulant abuse with stimulant-induced psychotic disorder with hallucinations
+F15,F15159,"Oth stimulant abuse w stim-induce psychotic disorder, unsp","Other stimulant abuse with stimulant-induced psychotic disorder, unspecified"
+F15,F15180,Oth stimulant abuse with stimulant-induced anxiety disorder,Other stimulant abuse with stimulant-induced anxiety disorder
+F15,F15181,Oth stimulant abuse w stimulant-induced sexual dysfunction,Other stimulant abuse with stimulant-induced sexual dysfunction
+F15,F15182,Other stimulant abuse with stimulant-induced sleep disorder,Other stimulant abuse with stimulant-induced sleep disorder
+F15,F15188,Other stimulant abuse with other stimulant-induced disorder,Other stimulant abuse with other stimulant-induced disorder
+F15,F1519,Other stimulant abuse with unsp stimulant-induced disorder,Other stimulant abuse with unspecified stimulant-induced disorder
+F15,F1520,"Other stimulant dependence, uncomplicated","Other stimulant dependence, uncomplicated"
+F15,F1521,"Other stimulant dependence, in remission","Other stimulant dependence, in remission"
+F15,F15220,"Other stimulant dependence with intoxication, uncomplicated","Other stimulant dependence with intoxication, uncomplicated"
+F15,F15221,Other stimulant dependence with intoxication delirium,Other stimulant dependence with intoxication delirium
+F15,F15222,Oth stimulant dependence w intox w perceptual disturbance,Other stimulant dependence with intoxication with perceptual disturbance
+F15,F15229,"Other stimulant dependence with intoxication, unspecified","Other stimulant dependence with intoxication, unspecified"
+F15,F1523,Other stimulant dependence with withdrawal,Other stimulant dependence with withdrawal
+F15,F1524,Oth stimulant dependence w stimulant-induced mood disorder,Other stimulant dependence with stimulant-induced mood disorder
+F15,F15250,Oth stim depend w stim-induce psych disorder w delusions,Other stimulant dependence with stimulant-induced psychotic disorder with delusions
+F15,F15251,Oth stimulant depend w stim-induce psych disorder w hallucin,Other stimulant dependence with stimulant-induced psychotic disorder with hallucinations
+F15,F15259,"Oth stimulant depend w stim-induce psychotic disorder, unsp","Other stimulant dependence with stimulant-induced psychotic disorder, unspecified"
+F15,F15280,Oth stimulant dependence w stim-induce anxiety disorder,Other stimulant dependence with stimulant-induced anxiety disorder
+F15,F15281,Oth stimulant dependence w stim-induce sexual dysfunction,Other stimulant dependence with stimulant-induced sexual dysfunction
+F15,F15282,Oth stimulant dependence w stimulant-induced sleep disorder,Other stimulant dependence with stimulant-induced sleep disorder
+F15,F15288,Oth stimulant dependence with oth stimulant-induced disorder,Other stimulant dependence with other stimulant-induced disorder
+F15,F1529,Oth stimulant dependence w unsp stimulant-induced disorder,Other stimulant dependence with unspecified stimulant-induced disorder
+F15,F1590,"Other stimulant use, unspecified, uncomplicated","Other stimulant use, unspecified, uncomplicated"
+F15,F1591,"Other stimulant use, unspecified, in remission","Other stimulant use, unspecified, in remission"
+F15,F15920,"Other stimulant use, unsp with intoxication, uncomplicated","Other stimulant use, unspecified with intoxication, uncomplicated"
+F15,F15921,"Other stimulant use, unspecified with intoxication delirium","Other stimulant use, unspecified with intoxication delirium"
+F15,F15922,"Oth stimulant use, unsp w intox w perceptual disturbance","Other stimulant use, unspecified with intoxication with perceptual disturbance"
+F15,F15929,"Other stimulant use, unsp with intoxication, unspecified","Other stimulant use, unspecified with intoxication, unspecified"
+F15,F1593,"Other stimulant use, unspecified with withdrawal","Other stimulant use, unspecified with withdrawal"
+F15,F1594,"Oth stimulant use, unsp with stimulant-induced mood disorder","Other stimulant use, unspecified with stimulant-induced mood disorder"
+F15,F15950,"Oth stim use, unsp w stim-induce psych disorder w delusions","Other stimulant use, unspecified with stimulant-induced psychotic disorder with delusions"
+F15,F15951,"Oth stim use, unsp w stim-induce psych disorder w hallucin","Other stimulant use, unspecified with stimulant-induced psychotic disorder with hallucinations"
+F15,F15959,"Oth stimulant use, unsp w stim-induce psych disorder, unsp","Other stimulant use, unspecified with stimulant-induced psychotic disorder, unspecified"
+F15,F15980,"Oth stimulant use, unsp w stimulant-induced anxiety disorder","Other stimulant use, unspecified with stimulant-induced anxiety disorder"
+F15,F15981,"Oth stimulant use, unsp w stim-induce sexual dysfunction","Other stimulant use, unspecified with stimulant-induced sexual dysfunction"
+F15,F15982,"Oth stimulant use, unsp w stimulant-induced sleep disorder","Other stimulant use, unspecified with stimulant-induced sleep disorder"
+F15,F15988,"Oth stimulant use, unsp with oth stimulant-induced disorder","Other stimulant use, unspecified with other stimulant-induced disorder"
+F15,F1599,"Oth stimulant use, unsp with unsp stimulant-induced disorder","Other stimulant use, unspecified with unspecified stimulant-induced disorder"
+F16,F1610,"Hallucinogen abuse, uncomplicated","Hallucinogen abuse, uncomplicated"
+F16,F1611,"Hallucinogen abuse, in remission","Hallucinogen abuse, in remission"
+F16,F16120,"Hallucinogen abuse with intoxication, uncomplicated","Hallucinogen abuse with intoxication, uncomplicated"
+F16,F16121,Hallucinogen abuse with intoxication with delirium,Hallucinogen abuse with intoxication with delirium
+F16,F16122,Hallucinogen abuse w intoxication w perceptual disturbance,Hallucinogen abuse with intoxication with perceptual disturbance
+F16,F16129,"Hallucinogen abuse with intoxication, unspecified","Hallucinogen abuse with intoxication, unspecified"
+F16,F1614,Hallucinogen abuse with hallucinogen-induced mood disorder,Hallucinogen abuse with hallucinogen-induced mood disorder
+F16,F16150,Hallucinogen abuse w psychotic disorder w delusions,Hallucinogen abuse with hallucinogen-induced psychotic disorder with delusions
+F16,F16151,Hallucinogen abuse w psychotic disorder w hallucinations,Hallucinogen abuse with hallucinogen-induced psychotic disorder with hallucinations
+F16,F16159,"Hallucinogen abuse w psychotic disorder, unsp","Hallucinogen abuse with hallucinogen-induced psychotic disorder, unspecified"
+F16,F16180,Hallucinogen abuse w hallucinogen-induced anxiety disorder,Hallucinogen abuse with hallucinogen-induced anxiety disorder
+F16,F16183,Hallucign abuse w hallucign persisting perception disorder,Hallucinogen abuse with hallucinogen persisting perception disorder (flashbacks)
+F16,F16188,Hallucinogen abuse with other hallucinogen-induced disorder,Hallucinogen abuse with other hallucinogen-induced disorder
+F16,F1619,Hallucinogen abuse with unsp hallucinogen-induced disorder,Hallucinogen abuse with unspecified hallucinogen-induced disorder
+F16,F1620,"Hallucinogen dependence, uncomplicated","Hallucinogen dependence, uncomplicated"
+F16,F1621,"Hallucinogen dependence, in remission","Hallucinogen dependence, in remission"
+F16,F16220,"Hallucinogen dependence with intoxication, uncomplicated","Hallucinogen dependence with intoxication, uncomplicated"
+F16,F16221,Hallucinogen dependence with intoxication with delirium,Hallucinogen dependence with intoxication with delirium
+F16,F16229,"Hallucinogen dependence with intoxication, unspecified","Hallucinogen dependence with intoxication, unspecified"
+F16,F1624,Hallucinogen dependence w hallucinogen-induced mood disorder,Hallucinogen dependence with hallucinogen-induced mood disorder
+F16,F16250,Hallucinogen dependence w psychotic disorder w delusions,Hallucinogen dependence with hallucinogen-induced psychotic disorder with delusions
+F16,F16251,Hallucinogen dependence w psychotic disorder w hallucin,Hallucinogen dependence with hallucinogen-induced psychotic disorder with hallucinations
+F16,F16259,"Hallucinogen dependence w psychotic disorder, unsp","Hallucinogen dependence with hallucinogen-induced psychotic disorder, unspecified"
+F16,F16280,Hallucinogen dependence w anxiety disorder,Hallucinogen dependence with hallucinogen-induced anxiety disorder
+F16,F16283,Hallucign depend w hallucign persisting perception disorder,Hallucinogen dependence with hallucinogen persisting perception disorder (flashbacks)
+F16,F16288,Hallucinogen dependence w oth hallucinogen-induced disorder,Hallucinogen dependence with other hallucinogen-induced disorder
+F16,F1629,Hallucinogen dependence w unsp hallucinogen-induced disorder,Hallucinogen dependence with unspecified hallucinogen-induced disorder
+F16,F1690,"Hallucinogen use, unspecified, uncomplicated","Hallucinogen use, unspecified, uncomplicated"
+F16,F1691,"Hallucinogen use, unspecified, in remission","Hallucinogen use, unspecified, in remission"
+F16,F16920,"Hallucinogen use, unsp with intoxication, uncomplicated","Hallucinogen use, unspecified with intoxication, uncomplicated"
+F16,F16921,"Hallucinogen use, unsp with intoxication with delirium","Hallucinogen use, unspecified with intoxication with delirium"
+F16,F16929,"Hallucinogen use, unspecified with intoxication, unspecified","Hallucinogen use, unspecified with intoxication, unspecified"
+F16,F1694,"Hallucinogen use, unsp w hallucinogen-induced mood disorder","Hallucinogen use, unspecified with hallucinogen-induced mood disorder"
+F16,F16950,"Hallucinogen use, unsp w psychotic disorder w delusions","Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder with delusions"
+F16,F16951,"Hallucinogen use, unsp w psychotic disorder w hallucinations","Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder with hallucinations"
+F16,F16959,"Hallucinogen use, unsp w psychotic disorder, unsp","Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder, unspecified"
+F16,F16980,"Hallucinogen use, unsp w anxiety disorder","Hallucinogen use, unspecified with hallucinogen-induced anxiety disorder"
+F16,F16983,"Hallucign use, unsp w hallucign persist perception disorder","Hallucinogen use, unspecified with hallucinogen persisting perception disorder (flashbacks)"
+F16,F16988,"Hallucinogen use, unsp w oth hallucinogen-induced disorder","Hallucinogen use, unspecified with other hallucinogen-induced disorder"
+F16,F1699,"Hallucinogen use, unsp w unsp hallucinogen-induced disorder","Hallucinogen use, unspecified with unspecified hallucinogen-induced disorder"
+F17,F17200,"Nicotine dependence, unspecified, uncomplicated","Nicotine dependence, unspecified, uncomplicated  "
+F17,F17201,"Nicotine dependence, unspecified, in remission","Nicotine dependence, unspecified, in remission"
+F17,F17203,"Nicotine dependence unspecified, with withdrawal","Nicotine dependence unspecified, with withdrawal"
+F17,F17208,"Nicotine dependence, unsp, w oth nicotine-induced disorders","Nicotine dependence, unspecified, with other nicotine-induced disorders"
+F17,F17209,"Nicotine dependence, unsp, w unsp nicotine-induced disorders","Nicotine dependence, unspecified, with unspecified nicotine-induced disorders"
+F17,F17210,"Nicotine dependence, cigarettes, uncomplicated","Nicotine dependence, cigarettes, uncomplicated   "
+F17,F17211,"Nicotine dependence, cigarettes, in remission","Nicotine dependence, cigarettes, in remission    "
+F17,F17213,"Nicotine dependence, cigarettes, with withdrawal","Nicotine dependence, cigarettes, with withdrawal"
+F17,F17218,"Nicotine dependence, cigarettes, w oth disorders","Nicotine dependence, cigarettes, with other nicotine-induced disorders"
+F17,F17219,"Nicotine dependence, cigarettes, w unsp disorders","Nicotine dependence, cigarettes, with unspecified nicotine-induced disorders"
+F17,F17220,"Nicotine dependence, chewing tobacco, uncomplicated","Nicotine dependence, chewing tobacco, uncomplicated   "
+F17,F17221,"Nicotine dependence, chewing tobacco, in remission","Nicotine dependence, chewing tobacco, in remission  "
+F17,F17223,"Nicotine dependence, chewing tobacco, with withdrawal","Nicotine dependence, chewing tobacco, with withdrawal"
+F17,F17228,"Nicotine dependence, chewing tobacco, w oth disorders","Nicotine dependence, chewing tobacco, with other nicotine-induced disorders"
+F17,F17229,"Nicotine dependence, chewing tobacco, w unsp disorders","Nicotine dependence, chewing tobacco, with unspecified nicotine-induced disorders"
+F17,F17290,"Nicotine dependence, other tobacco product, uncomplicated","Nicotine dependence, other tobacco product, uncomplicated   "
+F17,F17291,"Nicotine dependence, other tobacco product, in remission","Nicotine dependence, other tobacco product, in remission   "
+F17,F17293,"Nicotine dependence, other tobacco product, with withdrawal","Nicotine dependence, other tobacco product, with withdrawal"
+F17,F17298,"Nicotine dependence, oth tobacco product, w oth disorders","Nicotine dependence, other tobacco product, with other nicotine-induced disorders"
+F17,F17299,"Nicotine dependence, oth tobacco product, w unsp disorders","Nicotine dependence, other tobacco product, with unspecified nicotine-induced disorders"
+F18,F1810,"Inhalant abuse, uncomplicated","Inhalant abuse, uncomplicated"
+F18,F1811,"Inhalant abuse, in remission","Inhalant abuse, in remission"
+F18,F18120,"Inhalant abuse with intoxication, uncomplicated","Inhalant abuse with intoxication, uncomplicated"
+F18,F18121,Inhalant abuse with intoxication delirium,Inhalant abuse with intoxication delirium
+F18,F18129,"Inhalant abuse with intoxication, unspecified","Inhalant abuse with intoxication, unspecified"
+F18,F1814,Inhalant abuse with inhalant-induced mood disorder,Inhalant abuse with inhalant-induced mood disorder
+F18,F18150,Inhalant abuse w inhalnt-induce psych disorder w delusions,Inhalant abuse with inhalant-induced psychotic disorder with delusions
+F18,F18151,Inhalant abuse w inhalnt-induce psych disorder w hallucin,Inhalant abuse with inhalant-induced psychotic disorder with hallucinations
+F18,F18159,"Inhalant abuse w inhalant-induced psychotic disorder, unsp","Inhalant abuse with inhalant-induced psychotic disorder, unspecified"
+F18,F1817,Inhalant abuse with inhalant-induced dementia,Inhalant abuse with inhalant-induced dementia
+F18,F18180,Inhalant abuse with inhalant-induced anxiety disorder,Inhalant abuse with inhalant-induced anxiety disorder
+F18,F18188,Inhalant abuse with other inhalant-induced disorder,Inhalant abuse with other inhalant-induced disorder
+F18,F1819,Inhalant abuse with unspecified inhalant-induced disorder,Inhalant abuse with unspecified inhalant-induced disorder
+F18,F1820,"Inhalant dependence, uncomplicated","Inhalant dependence, uncomplicated"
+F18,F1821,"Inhalant dependence, in remission","Inhalant dependence, in remission"
+F18,F18220,"Inhalant dependence with intoxication, uncomplicated","Inhalant dependence with intoxication, uncomplicated"
+F18,F18221,Inhalant dependence with intoxication delirium,Inhalant dependence with intoxication delirium
+F18,F18229,"Inhalant dependence with intoxication, unspecified","Inhalant dependence with intoxication, unspecified"
+F18,F1824,Inhalant dependence with inhalant-induced mood disorder,Inhalant dependence with inhalant-induced mood disorder
+F18,F18250,Inhalant depend w inhalnt-induce psych disorder w delusions,Inhalant dependence with inhalant-induced psychotic disorder with delusions
+F18,F18251,Inhalant depend w inhalnt-induce psych disorder w hallucin,Inhalant dependence with inhalant-induced psychotic disorder with hallucinations
+F18,F18259,"Inhalant depend w inhalnt-induce psychotic disorder, unsp","Inhalant dependence with inhalant-induced psychotic disorder, unspecified"
+F18,F1827,Inhalant dependence with inhalant-induced dementia,Inhalant dependence with inhalant-induced dementia
+F18,F18280,Inhalant dependence with inhalant-induced anxiety disorder,Inhalant dependence with inhalant-induced anxiety disorder
+F18,F18288,Inhalant dependence with other inhalant-induced disorder,Inhalant dependence with other inhalant-induced disorder
+F18,F1829,Inhalant dependence with unsp inhalant-induced disorder,Inhalant dependence with unspecified inhalant-induced disorder
+F18,F1890,"Inhalant use, unspecified, uncomplicated","Inhalant use, unspecified, uncomplicated"
+F18,F1891,"Inhalant use, unspecified, in remission","Inhalant use, unspecified, in remission"
+F18,F18920,"Inhalant use, unspecified with intoxication, uncomplicated","Inhalant use, unspecified with intoxication, uncomplicated"
+F18,F18921,"Inhalant use, unspecified with intoxication with delirium","Inhalant use, unspecified with intoxication with delirium"
+F18,F18929,"Inhalant use, unspecified with intoxication, unspecified","Inhalant use, unspecified with intoxication, unspecified"
+F18,F1894,"Inhalant use, unsp with inhalant-induced mood disorder","Inhalant use, unspecified with inhalant-induced mood disorder"
+F18,F18950,"Inhalant use, unsp w inhalnt-induce psych disord w delusions","Inhalant use, unspecified with inhalant-induced psychotic disorder with delusions"
+F18,F18951,"Inhalant use, unsp w inhalnt-induce psych disord w hallucin","Inhalant use, unspecified with inhalant-induced psychotic disorder with hallucinations"
+F18,F18959,"Inhalant use, unsp w inhalnt-induce psychotic disorder, unsp","Inhalant use, unspecified with inhalant-induced psychotic disorder, unspecified"
+F18,F1897,"Inhalant use, unsp with inhalant-induced persisting dementia","Inhalant use, unspecified with inhalant-induced persisting dementia"
+F18,F18980,"Inhalant use, unsp with inhalant-induced anxiety disorder","Inhalant use, unspecified with inhalant-induced anxiety disorder"
+F18,F18988,"Inhalant use, unsp with other inhalant-induced disorder","Inhalant use, unspecified with other inhalant-induced disorder"
+F18,F1899,"Inhalant use, unsp with unsp inhalant-induced disorder","Inhalant use, unspecified with unspecified inhalant-induced disorder"
+F19,F1910,"Other psychoactive substance abuse, uncomplicated","Other psychoactive substance abuse, uncomplicated"
+F19,F1911,"Other psychoactive substance abuse, in remission","Other psychoactive substance abuse, in remission"
+F19,F19120,"Oth psychoactive substance abuse w intoxication, uncomp","Other psychoactive substance abuse with intoxication, uncomplicated"
+F19,F19121,Oth psychoactive substance abuse with intoxication delirium,Other psychoactive substance abuse with intoxication delirium
+F19,F19122,Oth psychoactv substance abuse w intox w perceptual disturb,Other psychoactive substance abuse with intoxication with perceptual disturbances
+F19,F19129,"Other psychoactive substance abuse with intoxication, unsp","Other psychoactive substance abuse with intoxication, unspecified"
+F19,F19130,"Other psychoactive substance abuse with withdrawal, uncomp","Other psychoactive substance abuse with withdrawal, uncomplicated"
+F19,F19131,Other psychoactive substance abuse with withdrawal delirium,Other psychoactive substance abuse with withdrawal delirium
+F19,F19132,Other psychoactv sub abuse with w/drawal w perceptl disturb,Other psychoactive substance abuse with withdrawal with perceptual disturbance
+F19,F19139,"Other psychoactv substance abuse with withdrawal, unsp","Other psychoactive substance abuse with withdrawal, unspecified"
+F19,F1914,Oth psychoactive substance abuse w mood disorder,Other psychoactive substance abuse with psychoactive substance-induced mood disorder
+F19,F19150,Oth psychoactv substance abuse w psych disorder w delusions,Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder with delusions
+F19,F19151,Oth psychoactv substance abuse w psych disorder w hallucin,Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder with hallucinations
+F19,F19159,"Oth psychoactive substance abuse w psychotic disorder, unsp","Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder, unspecified"
+F19,F1916,Oth psychoactv substance abuse w persist amnestic disorder,Other psychoactive substance abuse with psychoactive substance-induced persisting amnestic disorder
+F19,F1917,Oth psychoactive substance abuse w persisting dementia,Other psychoactive substance abuse with psychoactive substance-induced persisting dementia
+F19,F19180,Oth psychoactive substance abuse w anxiety disorder,Other psychoactive substance abuse with psychoactive substance-induced anxiety disorder
+F19,F19181,Oth psychoactive substance abuse w sexual dysfunction,Other psychoactive substance abuse with psychoactive substance-induced sexual dysfunction
+F19,F19182,Oth psychoactive substance abuse w sleep disorder,Other psychoactive substance abuse with psychoactive substance-induced sleep disorder
+F19,F19188,Oth psychoactive substance abuse w oth disorder,Other psychoactive substance abuse with other psychoactive substance-induced disorder
+F19,F1919,Oth psychoactive substance abuse w unsp disorder,Other psychoactive substance abuse with unspecified psychoactive substance-induced disorder
+F19,F1920,"Other psychoactive substance dependence, uncomplicated","Other psychoactive substance dependence, uncomplicated"
+F19,F1921,"Other psychoactive substance dependence, in remission","Other psychoactive substance dependence, in remission"
+F19,F19220,"Oth psychoactive substance dependence w intoxication, uncomp","Other psychoactive substance dependence with intoxication, uncomplicated"
+F19,F19221,Oth psychoactive substance dependence w intox delirium,Other psychoactive substance dependence with intoxication delirium
+F19,F19222,Oth psychoactv substance depend w intox w perceptual disturb,Other psychoactive substance dependence with intoxication with perceptual disturbance
+F19,F19229,"Oth psychoactive substance dependence w intoxication, unsp","Other psychoactive substance dependence with intoxication, unspecified"
+F19,F19230,"Oth psychoactive substance dependence w withdrawal, uncomp","Other psychoactive substance dependence with withdrawal, uncomplicated"
+F19,F19231,Oth psychoactive substance dependence w withdrawal delirium,Other psychoactive substance dependence with withdrawal delirium
+F19,F19232,Oth psychoactv sub depend w w/drawal w perceptl disturb,Other psychoactive substance dependence with withdrawal with perceptual disturbance
+F19,F19239,"Oth psychoactive substance dependence with withdrawal, unsp","Other psychoactive substance dependence with withdrawal, unspecified"
+F19,F1924,Oth psychoactive substance dependence w mood disorder,Other psychoactive substance dependence with psychoactive substance-induced mood disorder
+F19,F19250,Oth psychoactv substance depend w psych disorder w delusions,Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder with delusions
+F19,F19251,Oth psychoactv substance depend w psych disorder w hallucin,Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder with hallucinations
+F19,F19259,"Oth psychoactv substance depend w psychotic disorder, unsp","Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder, unspecified"
+F19,F1926,Oth psychoactv substance depend w persist amnestic disorder,Other psychoactive substance dependence with psychoactive substance-induced persisting amnestic disorder
+F19,F1927,Oth psychoactive substance dependence w persisting dementia,Other psychoactive substance dependence with psychoactive substance-induced persisting dementia
+F19,F19280,Oth psychoactive substance dependence w anxiety disorder,Other psychoactive substance dependence with psychoactive substance-induced anxiety disorder
+F19,F19281,Oth psychoactive substance dependence w sexual dysfunction,Other psychoactive substance dependence with psychoactive substance-induced sexual dysfunction
+F19,F19282,Oth psychoactive substance dependence w sleep disorder,Other psychoactive substance dependence with psychoactive substance-induced sleep disorder
+F19,F19288,Oth psychoactive substance dependence w oth disorder,Other psychoactive substance dependence with other psychoactive substance-induced disorder
+F19,F1929,Oth psychoactive substance dependence w unsp disorder,Other psychoactive substance dependence with unspecified psychoactive substance-induced disorder
+F19,F1990,"Other psychoactive substance use, unspecified, uncomplicated","Other psychoactive substance use, unspecified, uncomplicated"
+F19,F1991,"Other psychoactive substance use, unspecified, in remission","Other psychoactive substance use, unspecified, in remission"
+F19,F19920,"Oth psychoactive substance use, unsp w intoxication, uncomp","Other psychoactive substance use, unspecified with intoxication, uncomplicated"
+F19,F19921,"Oth psychoactive substance use, unsp w intox w delirium","Other psychoactive substance use, unspecified with intoxication with delirium"
+F19,F19922,"Oth psychoactv sub use, unsp w intox w perceptl disturb","Other psychoactive substance use, unspecified with intoxication with perceptual disturbance"
+F19,F19929,"Oth psychoactive substance use, unsp with intoxication, unsp","Other psychoactive substance use, unspecified with intoxication, unspecified"
+F19,F19930,"Oth psychoactive substance use, unsp w withdrawal, uncomp","Other psychoactive substance use, unspecified with withdrawal, uncomplicated"
+F19,F19931,"Oth psychoactive substance use, unsp w withdrawal delirium","Other psychoactive substance use, unspecified with withdrawal delirium"
+F19,F19932,"Oth psychoactv sub use, unsp w w/drawal w perceptl disturb","Other psychoactive substance use, unspecified with withdrawal with perceptual disturbance"
+F19,F19939,"Other psychoactive substance use, unsp with withdrawal, unsp","Other psychoactive substance use, unspecified with withdrawal, unspecified"
+F19,F1994,"Oth psychoactive substance use, unsp w mood disorder","Other psychoactive substance use, unspecified with psychoactive substance-induced mood disorder"
+F19,F19950,"Oth psychoactv sub use, unsp w psych disorder w delusions","Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder with delusions"
+F19,F19951,"Oth psychoactv sub use, unsp w psych disorder w hallucin","Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder with hallucinations"
+F19,F19959,"Oth psychoactv substance use, unsp w psych disorder, unsp","Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder, unspecified"
+F19,F1996,"Oth psychoactv sub use, unsp w persist amnestic disorder","Other psychoactive substance use, unspecified with psychoactive substance-induced persisting amnestic disorder"
+F19,F1997,"Oth psychoactive substance use, unsp w persisting dementia","Other psychoactive substance use, unspecified with psychoactive substance-induced persisting dementia"
+F19,F19980,"Oth psychoactive substance use, unsp w anxiety disorder","Other psychoactive substance use, unspecified with psychoactive substance-induced anxiety disorder"
+F19,F19981,"Oth psychoactive substance use, unsp w sexual dysfunction","Other psychoactive substance use, unspecified with psychoactive substance-induced sexual dysfunction"
+F19,F19982,"Oth psychoactive substance use, unsp w sleep disorder","Other psychoactive substance use, unspecified with psychoactive substance-induced sleep disorder"
+F19,F19988,"Oth psychoactive substance use, unsp w oth disorder","Other psychoactive substance use, unspecified with other psychoactive substance-induced disorder"
+F19,F1999,"Oth psychoactive substance use, unsp w unsp disorder","Other psychoactive substance use, unspecified with unspecified psychoactive substance-induced disorder"
+F20,F200,Paranoid schizophrenia,Paranoid schizophrenia
+F20,F201,Disorganized schizophrenia,Disorganized schizophrenia
+F20,F202,Catatonic schizophrenia,Catatonic schizophrenia
+F20,F203,Undifferentiated schizophrenia,Undifferentiated schizophrenia
+F20,F205,Residual schizophrenia,Residual schizophrenia
+F20,F2081,Schizophreniform disorder,Schizophreniform disorder
+F20,F2089,Other schizophrenia,Other schizophrenia
+F20,F209,"Schizophrenia, unspecified","Schizophrenia, unspecified"
+F21,F21,Schizotypal disorder,Schizotypal disorder
+F22,F22,Delusional disorders,Delusional disorders
+F23,F23,Brief psychotic disorder,Brief psychotic disorder
+F24,F24,Shared psychotic disorder,Shared psychotic disorder
+F25,F250,"Schizoaffective disorder, bipolar type","Schizoaffective disorder, bipolar type"
+F25,F251,"Schizoaffective disorder, depressive type","Schizoaffective disorder, depressive type"
+F25,F258,Other schizoaffective disorders,Other schizoaffective disorders
+F25,F259,"Schizoaffective disorder, unspecified","Schizoaffective disorder, unspecified"
+F28,F28,Oth psych disorder not due to a sub or known physiol cond,Other psychotic disorder not due to a substance or known physiological condition
+F29,F29,Unsp psychosis not due to a substance or known physiol cond,Unspecified psychosis not due to a substance or known physiological condition
+F30,F3010,"Manic episode without psychotic symptoms, unspecified","Manic episode without psychotic symptoms, unspecified"
+F30,F3011,"Manic episode without psychotic symptoms, mild","Manic episode without psychotic symptoms, mild"
+F30,F3012,"Manic episode without psychotic symptoms, moderate","Manic episode without psychotic symptoms, moderate"
+F30,F3013,"Manic episode, severe, without psychotic symptoms","Manic episode, severe, without psychotic symptoms"
+F30,F302,"Manic episode, severe with psychotic symptoms","Manic episode, severe with psychotic symptoms"
+F30,F303,Manic episode in partial remission,Manic episode in partial remission
+F30,F304,Manic episode in full remission,Manic episode in full remission
+F30,F308,Other manic episodes,Other manic episodes
+F30,F309,"Manic episode, unspecified","Manic episode, unspecified"
+F31,F310,"Bipolar disorder, current episode hypomanic","Bipolar disorder, current episode hypomanic"
+F31,F3110,"Bipolar disord, crnt episode manic w/o psych features, unsp","Bipolar disorder, current episode manic without psychotic features, unspecified"
+F31,F3111,"Bipolar disord, crnt episode manic w/o psych features, mild","Bipolar disorder, current episode manic without psychotic features, mild"
+F31,F3112,"Bipolar disord, crnt episode manic w/o psych features, mod","Bipolar disorder, current episode manic without psychotic features, moderate"
+F31,F3113,"Bipolar disord, crnt epsd manic w/o psych features, severe","Bipolar disorder, current episode manic without psychotic features, severe"
+F31,F312,"Bipolar disord, crnt episode manic severe w psych features","Bipolar disorder, current episode manic severe with psychotic features"
+F31,F3130,"Bipolar disord, crnt epsd depress, mild or mod severt, unsp","Bipolar disorder, current episode depressed, mild or moderate severity, unspecified"
+F31,F3131,"Bipolar disorder, current episode depressed, mild","Bipolar disorder, current episode depressed, mild"
+F31,F3132,"Bipolar disorder, current episode depressed, moderate","Bipolar disorder, current episode depressed, moderate"
+F31,F314,"Bipolar disord, crnt epsd depress, sev, w/o psych features","Bipolar disorder, current episode depressed, severe, without psychotic features"
+F31,F315,"Bipolar disord, crnt epsd depress, severe, w psych features","Bipolar disorder, current episode depressed, severe, with psychotic features"
+F31,F3160,"Bipolar disorder, current episode mixed, unspecified","Bipolar disorder, current episode mixed, unspecified"
+F31,F3161,"Bipolar disorder, current episode mixed, mild","Bipolar disorder, current episode mixed, mild"
+F31,F3162,"Bipolar disorder, current episode mixed, moderate","Bipolar disorder, current episode mixed, moderate"
+F31,F3163,"Bipolar disord, crnt epsd mixed, severe, w/o psych features","Bipolar disorder, current episode mixed, severe, without psychotic features"
+F31,F3164,"Bipolar disord, crnt episode mixed, severe, w psych features","Bipolar disorder, current episode mixed, severe, with psychotic features"
+F31,F3170,"Bipolar disord, currently in remis, most recent episode unsp","Bipolar disorder, currently in remission, most recent episode unspecified"
+F31,F3171,"Bipolar disord, in partial remis, most recent epsd hypomanic","Bipolar disorder, in partial remission, most recent episode hypomanic"
+F31,F3172,"Bipolar disord, in full remis, most recent episode hypomanic","Bipolar disorder, in full remission, most recent episode hypomanic"
+F31,F3173,"Bipolar disord, in partial remis, most recent episode manic","Bipolar disorder, in partial remission, most recent episode manic"
+F31,F3174,"Bipolar disorder, in full remis, most recent episode manic","Bipolar disorder, in full remission, most recent episode manic"
+F31,F3175,"Bipolar disord, in partial remis, most recent epsd depress","Bipolar disorder, in partial remission, most recent episode depressed"
+F31,F3176,"Bipolar disorder, in full remis, most recent episode depress","Bipolar disorder, in full remission, most recent episode depressed"
+F31,F3177,"Bipolar disord, in partial remis, most recent episode mixed","Bipolar disorder, in partial remission, most recent episode mixed"
+F31,F3178,"Bipolar disorder, in full remis, most recent episode mixed","Bipolar disorder, in full remission, most recent episode mixed"
+F31,F3181,Bipolar II disorder,Bipolar II disorder
+F31,F3189,Other bipolar disorder,Other bipolar disorder
+F31,F319,"Bipolar disorder, unspecified","Bipolar disorder, unspecified"
+F32,F320,"Major depressive disorder, single episode, mild","Major depressive disorder, single episode, mild"
+F32,F321,"Major depressive disorder, single episode, moderate","Major depressive disorder, single episode, moderate"
+F32,F322,"Major depressv disord, single epsd, sev w/o psych features","Major depressive disorder, single episode, severe without psychotic features"
+F32,F323,"Major depressv disord, single epsd, severe w psych features","Major depressive disorder, single episode, severe with psychotic features"
+F32,F324,"Major depressv disorder, single episode, in partial remis","Major depressive disorder, single episode, in partial remission"
+F32,F325,"Major depressive disorder, single episode, in full remission","Major depressive disorder, single episode, in full remission"
+F32,F328,Other depressive episodes,Other depressive episodes
+F32,F3281,Premenstrual dysphoric disorder,Premenstrual dysphoric disorder
+F32,F3289,Other specified depressive episodes,Other specified depressive episodes
+F32,F329,"Major depressive disorder, single episode, unspecified","Major depressive disorder, single episode, unspecified"
+F32,F32A,"Depression, unspecified","Depression, unspecified"
+F33,F330,"Major depressive disorder, recurrent, mild","Major depressive disorder, recurrent, mild"
+F33,F331,"Major depressive disorder, recurrent, moderate","Major depressive disorder, recurrent, moderate"
+F33,F332,"Major depressv disorder, recurrent severe w/o psych features","Major depressive disorder, recurrent severe without psychotic features"
+F33,F333,"Major depressv disorder, recurrent, severe w psych symptoms","Major depressive disorder, recurrent, severe with psychotic symptoms"
+F33,F3340,"Major depressive disorder, recurrent, in remission, unsp","Major depressive disorder, recurrent, in remission, unspecified"
+F33,F3341,"Major depressive disorder, recurrent, in partial remission","Major depressive disorder, recurrent, in partial remission"
+F33,F3342,"Major depressive disorder, recurrent, in full remission","Major depressive disorder, recurrent, in full remission"
+F33,F338,Other recurrent depressive disorders,Other recurrent depressive disorders
+F33,F339,"Major depressive disorder, recurrent, unspecified","Major depressive disorder, recurrent, unspecified"
+F34,F340,Cyclothymic disorder,Cyclothymic disorder
+F34,F341,Dysthymic disorder,Dysthymic disorder                                                                                                                                                                                                                                              
+F34,F348,Other persistent mood [affective] disorders,Other persistent mood [affective] disorders
+F34,F3481,Disruptive mood dysregulation disorder,Disruptive mood dysregulation disorder
+F34,F3489,Other specified persistent mood disorders,Other specified persistent mood disorders
+F34,F349,"Persistent mood [affective] disorder, unspecified","Persistent mood [affective] disorder, unspecified"
+F39,F39,Unspecified mood [affective] disorder,Unspecified mood [affective] disorder
+F40,F4000,"Agoraphobia, unspecified","Agoraphobia, unspecified  "
+F40,F4001,Agoraphobia with panic disorder,Agoraphobia with panic disorder   
+F40,F4002,Agoraphobia without panic disorder,Agoraphobia without panic disorder
+F40,F4010,"Social phobia, unspecified","Social phobia, unspecified"
+F40,F4011,"Social phobia, generalized","Social phobia, generalized"
+F40,F40210,Arachnophobia,Arachnophobia
+F40,F40218,Other animal type phobia,Other animal type phobia
+F40,F40220,Fear of thunderstorms,Fear of thunderstorms  
+F40,F40228,Other natural environment type phobia,Other natural environment type phobia   
+F40,F40230,Fear of blood,Fear of blood    
+F40,F40231,Fear of injections and transfusions,Fear of injections and transfusions
+F40,F40232,Fear of other medical care,Fear of other medical care
+F40,F40233,Fear of injury,Fear of injury  
+F40,F40240,Claustrophobia,Claustrophobia  
+F40,F40241,Acrophobia,Acrophobia
+F40,F40242,Fear of bridges,Fear of bridges  
+F40,F40243,Fear of flying,Fear of flying
+F40,F40248,Other situational type phobia,Other situational type phobia   
+F40,F40290,Androphobia,Androphobia
+F40,F40291,Gynephobia,Gynephobia  
+F40,F40298,Other specified phobia,Other specified phobia
+F40,F408,Other phobic anxiety disorders,Other phobic anxiety disorders
+F40,F409,"Phobic anxiety disorder, unspecified","Phobic anxiety disorder, unspecified  "
+F41,F410,Panic disorder without agoraphobia,Panic disorder [episodic paroxysmal anxiety]
+F41,F411,Generalized anxiety disorder,Generalized anxiety disorder
+F41,F413,Other mixed anxiety disorders,Other mixed anxiety disorders   
+F41,F418,Other specified anxiety disorders,Other specified anxiety disorders
+F41,F419,"Anxiety disorder, unspecified","Anxiety disorder, unspecified"
+F42,F42,Obsessive-compulsive disorder,Obsessive-compulsive disorder
+F42,F422,Mixed obsessional thoughts and acts,Mixed obsessional thoughts and acts
+F42,F423,Hoarding disorder,Hoarding disorder
+F42,F424,Excoriation (skin-picking) disorder,Excoriation (skin-picking) disorder
+F42,F428,Other obsessive-compulsive disorder,Other obsessive-compulsive disorder
+F42,F429,"Obsessive-compulsive disorder, unspecified","Obsessive-compulsive disorder, unspecified"
+F43,F430,Acute stress reaction,Acute stress reaction
+F43,F4310,"Post-traumatic stress disorder, unspecified","Post-traumatic stress disorder, unspecified"
+F43,F4311,"Post-traumatic stress disorder, acute","Post-traumatic stress disorder, acute"
+F43,F4312,"Post-traumatic stress disorder, chronic","Post-traumatic stress disorder, chronic"
+F43,F4320,"Adjustment disorder, unspecified","Adjustment disorder, unspecified"
+F43,F4321,Adjustment disorder with depressed mood,Adjustment disorder with depressed mood
+F43,F4322,Adjustment disorder with anxiety,Adjustment disorder with anxiety
+F43,F4323,Adjustment disorder with mixed anxiety and depressed mood,Adjustment disorder with mixed anxiety and depressed mood
+F43,F4324,Adjustment disorder with disturbance of conduct,Adjustment disorder with disturbance of conduct
+F43,F4325,Adjustment disorder w mixed disturb of emotions and conduct,Adjustment disorder with mixed disturbance of emotions and conduct
+F43,F4329,Adjustment disorder with other symptoms,Adjustment disorder with other symptoms
+F43,F438,Other reactions to severe stress,Other reactions to severe stress
+F43,F4381,Prolonged grief disorder,Prolonged grief disorder
+F43,F4389,Other reactions to severe stress,Other reactions to severe stress
+F43,F439,"Reaction to severe stress, unspecified","Reaction to severe stress, unspecified"
+F44,F440,Dissociative amnesia,Dissociative amnesia  
+F44,F441,Dissociative fugue,Dissociative fugue   
+F44,F442,Dissociative stupor,Dissociative stupor  
+F44,F444,Conversion disorder with motor symptom or deficit,Conversion disorder with motor symptom or deficit
+F44,F445,Conversion disorder with seizures or convulsions,Conversion disorder with seizures or convulsions
+F44,F446,Conversion disorder with sensory symptom or deficit,Conversion disorder with sensory symptom or deficit  
+F44,F447,Conversion disorder with mixed symptom presentation,Conversion disorder with mixed symptom presentation
+F44,F4481,Dissociative identity disorder,Dissociative identity disorder  
+F44,F4489,Other dissociative and conversion disorders,Other dissociative and conversion disorders  
+F44,F449,"Dissociative and conversion disorder, unspecified","Dissociative and conversion disorder, unspecified"
+F45,F450,Somatization disorder,Somatization disorder
+F45,F451,Undifferentiated somatoform disorder,Undifferentiated somatoform disorder   
+F45,F4520,"Hypochondriacal disorder, unspecified","Hypochondriacal disorder, unspecified"
+F45,F4521,Hypochondriasis,Hypochondriasis  
+F45,F4522,Body dysmorphic disorder,Body dysmorphic disorder
+F45,F4529,Other hypochondriacal disorders,Other hypochondriacal disorders
+F45,F4541,Pain disorder exclusively related to psychological factors,Pain disorder exclusively related to psychological factors
+F45,F4542,Pain disorder with related psychological factors,Pain disorder with related psychological factors
+F45,F458,Other somatoform disorders,Other somatoform disorders   
+F45,F459,"Somatoform disorder, unspecified","Somatoform disorder, unspecified  "
+F48,F481,Depersonalization-derealization syndrome,Depersonalization-derealization syndrome
+F48,F482,Pseudobulbar affect,Pseudobulbar affect
+F48,F488,Other specified nonpsychotic mental disorders,Other specified nonpsychotic mental disorders
+F48,F489,"Nonpsychotic mental disorder, unspecified","Nonpsychotic mental disorder, unspecified    "
+F50,F5000,"Anorexia nervosa, unspecified","Anorexia nervosa, unspecified"
+F50,F5001,"Anorexia nervosa, restricting type","Anorexia nervosa, restricting type"
+F50,F5002,"Anorexia nervosa, binge eating/purging type","Anorexia nervosa, binge eating/purging type"
+F50,F502,Bulimia nervosa,Bulimia nervosa
+F50,F508,Other eating disorders,Other eating disorders
+F50,F5081,Binge eating disorder,Binge eating disorder
+F50,F5082,Avoidant/restrictive food intake disorder,Avoidant/restrictive food intake disorder
+F50,F5089,Other specified eating disorder,Other specified eating disorder
+F50,F509,"Eating disorder, unspecified","Eating disorder, unspecified"
+F51,F5101,Primary insomnia,Primary insomnia
+F51,F5102,Adjustment insomnia,Adjustment insomnia
+F51,F5103,Paradoxical insomnia,Paradoxical insomnia
+F51,F5104,Psychophysiologic insomnia,Psychophysiologic insomnia
+F51,F5105,Insomnia due to other mental disorder,Insomnia due to other mental disorder
+F51,F5109,Oth insomnia not due to a substance or known physiol cond,Other insomnia not due to a substance or known physiological condition
+F51,F5111,Primary hypersomnia,Primary hypersomnia
+F51,F5112,Insufficient sleep syndrome,Insufficient sleep syndrome
+F51,F5113,Hypersomnia due to other mental disorder,Hypersomnia due to other mental disorder
+F51,F5119,Oth hypersomnia not due to a substance or known physiol cond,Other hypersomnia not due to a substance or known physiological condition
+F51,F513,Sleepwalking [somnambulism],Sleepwalking [somnambulism]
+F51,F514,Sleep terrors [night terrors],Sleep terrors [night terrors]
+F51,F515,Nightmare disorder,Nightmare disorder
+F51,F518,Oth sleep disord not due to a sub or known physiol cond,Other sleep disorders not due to a substance or known physiological condition
+F51,F519,"Sleep disorder not due to a sub or known physiol cond, unsp","Sleep disorder not due to a substance or known physiological condition, unspecified"
+F52,F520,Hypoactive sexual desire disorder,Hypoactive sexual desire disorder
+F52,F521,Sexual aversion disorder,Sexual aversion disorder
+F52,F5221,Male erectile disorder,Male erectile disorder
+F52,F5222,Female sexual arousal disorder,Female sexual arousal disorder
+F52,F5231,Female orgasmic disorder,Female orgasmic disorder
+F52,F5232,Male orgasmic disorder,Male orgasmic disorder
+F52,F524,Premature ejaculation,Premature ejaculation
+F52,F525,Vaginismus not due to a substance or known physiol condition,Vaginismus not due to a substance or known physiological condition
+F52,F526,Dyspareunia not due to a substance or known physiol cond,Dyspareunia not due to a substance or known physiological condition
+F52,F528,Oth sexual dysfnct not due to a sub or known physiol cond,Other sexual dysfunction not due to a substance or known physiological condition
+F52,F529,Unsp sexual dysfnct not due to a sub or known physiol cond,Unspecified sexual dysfunction not due to a substance or known physiological condition
+F53,F53,Puerperal psychosis,Puerperal psychosis
+F53,F530,Postpartum depression,Postpartum depression
+F53,F531,Puerperal psychosis,Puerperal psychosis
+F54,F54,Psych & behavrl factors assoc w disord or dis classd elswhr,Psychological and behavioral factors associated with disorders or diseases classified elsewhere
+F55,F550,Abuse of antacids,Abuse of antacids
+F55,F551,Abuse of herbal or folk remedies,Abuse of herbal or folk remedies
+F55,F552,Abuse of laxatives,Abuse of laxatives
+F55,F553,Abuse of steroids or hormones,Abuse of steroids or hormones
+F55,F554,Abuse of vitamins,Abuse of vitamins
+F55,F558,Abuse of other non-psychoactive substances,Abuse of other non-psychoactive substances
+F59,F59,Unsp behavrl synd assoc w physiol disturb and physcl factors,Unspecified behavioral syndromes associated with physiological disturbances and physical factors
+F60,F600,f55,Paranoid personality disorder
+F60,F601,Schizoid personality disorder,Schizoid personality disorder
+F60,F602,Antisocial personality disorder,Antisocial personality disorder
+F60,F603,Borderline personality disorder,Borderline personality disorder
+F60,F604,Histrionic personality disorder,Histrionic personality disorder
+F60,F605,Obsessive-compulsive personality disorder,Obsessive-compulsive personality disorder
+F60,F606,Avoidant personality disorder,Avoidant personality disorder
+F60,F607,Dependent personality disorder,Dependent personality disorder
+F60,F6081,Narcissistic personality disorder,Narcissistic personality disorder
+F60,F6089,Other specific personality disorders,Other specific personality disorders
+F60,F609,"Personality disorder, unspecified","Personality disorder, unspecified"
+F63,F630,Pathological gambling,Pathological gambling
+F63,F631,Pyromania,Pyromania
+F63,F632,Kleptomania,Kleptomania
+F63,F633,Trichotillomania,Trichotillomania
+F63,F6381,Intermittent explosive disorder,Intermittent explosive disorder
+F63,F6389,Other impulse disorders,Other impulse disorders
+F63,F639,"Impulse disorder, unspecified","Impulse disorder, unspecified"
+F64,F640,Transsexualism,Transsexualism
+F64,F641,Dual role transvestism,Dual role transvestism
+F64,F642,Gender identity disorder of childhood,Gender identity disorder of childhood
+F64,F648,Other gender identity disorders,Other gender identity disorders
+F64,F649,"Gender identity disorder, unspecified","Gender identity disorder, unspecified"
+F65,F650,Fetishism,Fetishism
+F65,F651,Transvestic fetishism,Transvestic fetishism
+F65,F652,Exhibitionism,Exhibitionism
+F65,F653,Voyeurism,Voyeurism
+F65,F654,Pedophilia,Pedophilia
+F65,F6550,"Sadomasochism, unspecified","Sadomasochism, unspecified"
+F65,F6551,Sexual masochism,Sexual masochism
+F65,F6552,Sexual sadism,Sexual sadism
+F65,F6581,Frotteurism,Frotteurism
+F65,F6589,Other paraphilias,Other paraphilias
+F65,F659,"Paraphilia, unspecified","Paraphilia, unspecified"
+F66,F66,Other sexual disorders,Other sexual disorders
+F68,F6810,"Factitious disorder imposed on self, unspecified","Factitious disorder imposed on self, unspecified"
+F68,F6811,Factitious disorder w predom psych signs and symptoms,"Factitious disorder imposed on self, with predominantly psychological signs and symptoms"
+F68,F6812,"Factit disord impsd on self, with predom physcl signs/symp","Factitious disorder imposed on self, with predominantly physical signs and symptoms"
+F68,F6813,"Factit disord impsd on self, w comb psych & physcl signs/symp","Factitious disorder imposed on self, with combined psychological and physical signs and symptoms"
+F68,F688,Other specified disorders of adult personality and behavior,Other specified disorders of adult personality and behavior  
+F68,F68A,Factitious disorder imposed on another,Factitious disorder imposed on another
+F69,F69,Unspecified disorder of adult personality and behavior,Unspecified disorder of adult personality and behavior
+F70,F70,Mild intellectual disabilities,Mild intellectual disabilities
+F71,F71,Moderate intellectual disabilities,Moderate intellectual disabilities
+F72,F72,Severe intellectual disabilities,Severe intellectual disabilities
+F73,F73,Profound intellectual disabilities,Profound intellectual disabilities
+F78,F78,Other intellectual disabilities,Other intellectual disabilities
+F78,F78A1,SYNGAP1-related intellectual disability,SYNGAP1-related intellectual disability
+F78,F78A9,Other genetic related intellectual disability,Other genetic related intellectual disability
+F79,F79,Unspecified intellectual disabilities,Unspecified intellectual disabilities
+F80,F800,Phonological disorder,Phonological disorder
+F80,F801,Expressive language disorder,Expressive language disorder
+F80,F802,Mixed receptive-expressive language disorder,Mixed receptive-expressive language disorder
+F80,F804,Speech and language development delay due to hearing loss,Speech and language development delay due to hearing loss
+F80,F8081,Childhood onset fluency disorder,Childhood onset fluency disorder
+F80,F8082,Social pragmatic communication disorder,Social pragmatic communication disorder
+F80,F8089,Other developmental disorders of speech and language,Other developmental disorders of speech and language
+F80,F809,"Developmental disorder of speech and language, unspecified","Developmental disorder of speech and language, unspecified"
+F81,F810,Specific reading disorder,Specific reading disorder
+F81,F812,Mathematics disorder,Mathematics disorder
+F81,F8181,Disorder of written expression,Disorder of written expression
+F81,F8189,Other developmental disorders of scholastic skills,Other developmental disorders of scholastic skills
+F81,F819,"Developmental disorder of scholastic skills, unspecified","Developmental disorder of scholastic skills, unspecified"
+F82,F82,Specific developmental disorder of motor function,Specific developmental disorder of motor function
+F84,F840,Autistic disorder,Autistic disorder
+F84,F842,Rett's syndrome,Rett's syndrome
+F84,F843,Other childhood disintegrative disorder,Other childhood disintegrative disorder
+F84,F845,Asperger's syndrome,Asperger's syndrome
+F84,F848,Other pervasive developmental disorders,Other pervasive developmental disorders
+F84,F849,"Pervasive developmental disorder, unspecified","Pervasive developmental disorder, unspecified"
+F88,F88,Other disorders of psychological development,Other disorders of psychological development
+F89,F89,Unspecified disorder of psychological development,Unspecified disorder of psychological development
+F90,F900,"Attn-defct hyperactivity disorder, predom inattentive type","Attention-deficit hyperactivity disorder, predominantly inattentive type"
+F90,F901,"Attn-defct hyperactivity disorder, predom hyperactive type","Attention-deficit hyperactivity disorder, predominantly hyperactive type"
+F90,F902,"Attention-deficit hyperactivity disorder, combined type","Attention-deficit hyperactivity disorder, combined type"
+F90,F908,"Attention-deficit hyperactivity disorder, other type","Attention-deficit hyperactivity disorder, other type"
+F90,F909,"Attention-deficit hyperactivity disorder, unspecified type","Attention-deficit hyperactivity disorder, unspecified type"
+F91,F910,Conduct disorder confined to family context,Conduct disorder confined to family context
+F91,F911,"Conduct disorder, childhood-onset type","Conduct disorder, childhood-onset type"
+F91,F912,"Conduct disorder, adolescent-onset type","Conduct disorder, adolescent-onset type"
+F91,F913,Oppositional defiant disorder,Oppositional defiant disorder
+F91,F918,Other conduct disorders,Other conduct disorders
+F91,F919,"Conduct disorder, unspecified","Conduct disorder, unspecified"
+F93,F930,Separation anxiety disorder of childhood,Separation anxiety disorder of childhood
+F93,F938,Other childhood emotional disorders,Other childhood emotional disorders
+F93,F939,"Childhood emotional disorder, unspecified","Childhood emotional disorder, unspecified"
+F94,F940,Selective mutism,Selective mutism
+F94,F941,Reactive attachment disorder of childhood,Reactive attachment disorder of childhood
+F94,F942,Disinhibited attachment disorder of childhood,Disinhibited attachment disorder of childhood
+F94,F948,Other childhood disorders of social functioning,Other childhood disorders of social functioning
+F94,F949,"Childhood disorder of social functioning, unspecified","Childhood disorder of social functioning, unspecified"
+F95,F950,Transient tic disorder,Transient tic disorder
+F95,F951,Chronic motor or vocal tic disorder,Chronic motor or vocal tic disorder
+F95,F952,Tourette's disorder,Tourette's disorder
+F95,F958,Other tic disorders,Other tic disorders
+F95,F959,"Tic disorder, unspecified","Tic disorder, unspecified"
+F98,F980,Enuresis not due to a substance or known physiol condition,Enuresis not due to a substance or known physiological condition
+F98,F981,Encopresis not due to a substance or known physiol condition,Encopresis not due to a substance or known physiological condition
+F98,F9821,Rumination disorder of infancy,Rumination disorder of infancy
+F98,F9829,Other feeding disorders of infancy and early childhood,Other feeding disorders of infancy and early childhood
+F98,F983,Pica of infancy and childhood,Pica of infancy and childhood
+F98,F984,Stereotyped movement disorders,Stereotyped movement disorders
+F98,F985,Adult onset fluency disorder,Adult onset fluency disorder
+F98,F988,Oth behav/emotn disord w onset usly occur in chldhd and adol,Other specified behavioral and emotional disorders with onset usually occurring in childhood and adolescence
+F98,F989,Unsp behav/emotn disord w onst usly occur in chldhd and adol,Unspecified behavioral and emotional disorders with onset usually occurring in childhood and adolescence
+F99,F99,"Mental disorder, not otherwise specified","Mental disorder, not otherwise specified                                                                                                                                                                                                                        "
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

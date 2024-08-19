@@ -1,0 +1,12 @@
+code,description
+F01-F09,Mental disorders due to known physiological conditions
+F10-F19,Mental and behavioral disorders due to psychoactive substance use
+F20-F29,"Schizophrenia, schizotypal, delusional, and other non-mood psychotic disorders"
+F30-F39,Mood [affective] disorders
+F40-F48,"Anxiety, dissociative, stress-related, somatoform and other nonpsychotic mental disorders"
+F50-F59,Behavioral syndromes associated with physiological disturbances and physical factors
+F60-F69,Disorders of adult personality and behavior
+F70-F79,Intellectual disabilities
+F80-F89,Pervasive and specific developmental disorders
+F90-F98,Behavioral and emotional disorders with onset usually occurring in childhood and adolescence
+F99,Unspecified mental disorder
